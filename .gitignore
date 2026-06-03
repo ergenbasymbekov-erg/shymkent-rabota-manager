@@ -1,0 +1,7 @@
+.env
+data/*.db
+data/*.db-*
+posters/generated/*.png
+.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vacancy Template Generator</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div>
+        <h1>Vacancy Template Generator</h1>
+        <p class="sub">Paste final approved text → poster PNG + Telegram + WhatsApp. No rewriting.</p>
+      </div>
+      <div id="status-badge" class="badge ok">Template</div>
+    </header>
+
+    <section class="card input-card">
+      <label class="field-label" for="final-text">Final vacancy text</label>
+      <textarea id="final-text" rows="14" placeholder="Paste the manager-approved vacancy text exactly as it should appear…"></textarea>
+      <button id="generate-btn" class="btn primary">Generate</button>
+    </section>
+
+    <div id="results" hidden>
+      <div class="card" id="warning-card" hidden>
+        <p id="warning-out" class="hint poster-error"></p>
+      </div>
+
+      <div class="card">
+        <h2>Outputs</h2>
+        <div class="generate-block">
+          <div class="generate-head">
+            <h3>Poster PNG</h3>
+            <a id="poster-download" class="btn copy-btn" download>Download PNG</a>
+          </div>
+          <div class="poster-preview-wrap">
+            <img id="poster-preview" class="poster-preview" alt="Poster preview" />
+          </div>
+        </div>
+        <div class="generate-block">
+          <div class="generate-head">
+            <h3>Telegram text</h3>
+            <button class="btn copy-btn" data-copy="telegram-out">Copy</button>
+          </div>
+          <pre id="telegram-out" class="code generate-out"></pre>
+        </div>
+        <div class="generate-block">
+          <div class="generate-head">
+            <h3>Telegram buttons</h3>
+            <button class="btn copy-btn" data-copy="telegram-buttons-out">Copy JSON</button>
+          </div>
+          <pre id="telegram-buttons-out" class="code generate-out"></pre>
+        </div>
+        <div class="generate-block">
+          <div class="generate-head">
+            <h3>WhatsApp text</h3>
+            <button class="btn copy-btn" data-copy="whatsapp-out">Copy</button>
+          </div>
+          <pre id="whatsapp-out" class="code generate-out"></pre>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

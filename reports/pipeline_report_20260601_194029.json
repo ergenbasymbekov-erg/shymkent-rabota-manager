@@ -1,0 +1,5269 @@
+[
+  {
+    "id": "01",
+    "title": "Тошико Суши — курьер",
+    "raw_text": "Тошико Суши Шымкент жеткізу орталығына курьер қажет\n\n18 жастан жоғары\nЖеке көлігі болуы керек\n\nГрафик 1/1\nЖұмыс уақыты 09:00-00:00\nӘр тапсырысқа 1000 тг\n\nКонтакты: 87071234567",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Тошико Суши",
+      "vacancy_title": "Курьер",
+      "positions": [],
+      "salary": "Әр тапсырысқа 1000 тг",
+      "address": "Шымкент жеткізу орталығы",
+      "address_notes": "",
+      "phones": [
+        "87071234567"
+      ],
+      "phones_display": [
+        "+7 707 123 45 67"
+      ],
+      "instagram": "",
+      "requirements": [
+        "18 жастан жоғары",
+        "Жеке көлігі болуы керек"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 1/1",
+        "Жұмыс уақыты 09:00-00:00"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Тошико Суши",
+      "vacancy_type": "single",
+      "vacancy_title": "Курьер",
+      "positions": [],
+      "salary": "Әр тапсырысқа 1000 тг",
+      "requirements": [
+        "18 жастан жоғары",
+        "Жеке көлігі болуы керек"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 1/1",
+        "Жұмыс уақыты 09:00-00:00"
+      ],
+      "phones": [
+        "87071234567"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "Шымкент жеткізу орталығы",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nТошико Суши\n\nЛауазым:\nКурьер\n\nТалаптар:\n18 жастан жоғары\nЖеке көлігі болуы керек\n\nШарттары:\nГрафик 1/1\nЖұмыс уақыты 09:00-00:00\n\nЖалақы:\nӘр тапсырысқа 1000 тг\n\nМекенжай:\nШымкент жеткізу орталығы\n\nБайланыс:\n+7 707 123 45 67",
+      "telegram_text": "🏢 Компания:\nТошико Суши\n\n📌 Лауазым:\nКурьер\n\n📋 Талаптар:\n18 жастан жоғары\nЖеке көлігі болуы керек\n\n⏰ Шарттары:\nГрафик 1/1\nЖұмыс уақыты 09:00-00:00\n\n📍 Мекенжай:\nШымкент жеткізу орталығы\n\n📞 Байланыс:\n+7 707 123 45 67",
+      "whatsapp_text": "🏢 *Компания:*\nТошико Суши\n\n📌 *Лауазым:*\nКурьер\n\n📋 *Талаптар:*\n18 жастан жоғары\nЖеке көлігі болуы керек\n\n⏰ *Шарттары:*\nГрафик 1/1\nЖұмыс уақыты 09:00-00:00\n\n📍 *Мекенжай:*\nШымкент жеткізу орталығы\n\n📞 *Байланыс:*\n+7 707 123 45 67",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "QC: information_invented"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nТошико Суши\n\nЛауазым:\nКурьер\n\nТалаптар:\n18 жастан жоғары\nЖеке көлігі болуы керек\n\nШарттары:\nГрафик 1/1\nЖұмыс уақыты 09:00-00:00\n\nЖалақы:\nӘр тапсырысқа 1000 тг\n\nМекенжай:\nШымкент жеткізу орталығы\n\nБайланыс:\n+7 707 123 45 67",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "02",
+    "title": "Магнум — multi",
+    "raw_text": "Магнум сауда желісіне қызметкерлер қажет\n\nБос жұмыс орындары:\nСатушы-кассир\nЖүк тиеуші\nАспазшы\n\n18 жастан жоғары\nТәжірибе міндетті емес\n\nЖалақы келісімді\nГрафик 2/2\n\nул. Бекет Батыра, 208\nориентир: парк Победы\n\nКонтакты: 87077777777\nInstagram: magnum.kz",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Магнум сауда желісі",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "Жалақы келісімді",
+      "address": "ул. Бекет Батыра, 208",
+      "address_notes": "ориентир: парк Победы",
+      "phones": [
+        "87077777777"
+      ],
+      "phones_display": [
+        "+7 707 777 77 77"
+      ],
+      "instagram": "magnum.kz",
+      "requirements": [
+        "18 жастан жоғары",
+        "Тәжірибе міндетті емес"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Магнум сауда желісі",
+      "vacancy_type": "multi",
+      "vacancy_title": "Қызметкерлер қажет",
+      "positions": [
+        "Сатушы-кассир",
+        "Жүк тиеуші",
+        "Аспазшы"
+      ],
+      "salary": "Жалақы келісімді",
+      "requirements": [
+        "18 жастан жоғары",
+        "Тәжірибе міндетті емес"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "phones": [
+        "87077777777"
+      ],
+      "phones_display": [],
+      "address": "ул. Бекет Батыра, 208",
+      "address_notes": "ориентир: парк Победы",
+      "instagram": "magnum.kz",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nМагнум сауда желісі\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\n18 жастан жоғары\nТәжірибе міндетті емес\n\nШарттары:\nГрафик 2/2\n\nЖалақы:\nЖалақы келісімді\n\nМекенжай:\nул. Бекет Батыра, 208\nориентир: парк Победы\n\nБайланыс:\n+7 707 777 77 77\n\nInstagram:\nmagnum.kz",
+      "telegram_text": "🏢 Компания:\nМагнум сауда желісі\n\n📌 Лауазым:\nUNKNOWN_POSITION\n\n📋 Талаптар:\n18 жастан жоғары\nТәжірибе міндетті емес\n\n⏰ Шарттары:\nГрафик 2/2\n\n📍 Мекенжай:\nул. Бекет Батыра, 208\nориентир: парк Победы\n\n📞 Байланыс:\n+7 707 777 77 77",
+      "whatsapp_text": "🏢 *Компания:*\nМагнум сауда желісі\n\n📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📋 *Талаптар:*\n18 жастан жоғары\nТәжірибе міндетті емес\n\n⏰ *Шарттары:*\nГрафик 2/2\n\n📍 *Мекенжай:*\nул. Бекет Батыра, 208\nориентир: парк Победы\n\n📞 *Байланыс:*\n+7 707 777 77 77",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position",
+        "QC: information_lost",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nМагнум сауда желісі\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\n18 жастан жоғары\nТәжірибе міндетті емес\n\nШарттары:\nГрафик 2/2\n\nЖалақы:\nЖалақы келісімді\n\nМекенжай:\nул. Бекет Батыра, 208\nориентир: парк Победы\n\nБайланыс:\n+7 707 777 77 77\n\nInstagram:\nmagnum.kz",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Position"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "positions"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "title": "Ресторан Астана — официант RU",
+    "raw_text": "Ресторан «Астана» ищет официанта\n\nТребования:\n- Опыт от 1 года\n- Ответственность\n\nУсловия:\n- График 2/2\n- З/П от 250000 тг\n\nАдрес: пр. Абая 45, 2 этаж\nКонтакты: +7 707 123 45 67",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Ресторан «Астана»",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "от 250000 тг",
+      "address": "пр. Абая 45, 2 этаж",
+      "address_notes": "",
+      "phones": [
+        "87071234567"
+      ],
+      "phones_display": [
+        "+7 707 123 45 67"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Опыт от 1 года",
+        "Ответственность"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Ресторан «Астана»",
+      "vacancy_type": "single",
+      "vacancy_title": "Официант",
+      "positions": [],
+      "salary": "от 250000 тг",
+      "requirements": [
+        "Опыт от 1 года",
+        "Ответственность"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "phones": [
+        "+7 707 123 45 67"
+      ],
+      "phones_display": [],
+      "address": "пр. Абая 45, 2 этаж",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nРесторан «Астана»\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\nОпыт от 1 года\nОтветственность\n\nУсловия:\nГрафик 2/2\n\nОплата:\nот 250000 тг\n\nАдрес:\nпр. Абая 45, 2 этаж\n\nКонтакты:\n+7 707 123 45 67",
+      "telegram_text": "🏢 Компания:\nРесторан «Астана»\n\n📌 Должность:\nUNKNOWN_POSITION\n\n📋 Требования:\nОпыт от 1 года\nОтветственность\n\n⏰ Условия:\nГрафик 2/2\n\n📍 Адрес:\nпр. Абая 45, 2 этаж\n\n📞 Контакты:\n+7 707 123 45 67",
+      "whatsapp_text": "🏢 *Компания:*\nРесторан «Астана»\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n📋 *Требования:*\nОпыт от 1 года\nОтветственность\n\n⏰ *Условия:*\nГрафик 2/2\n\n📍 *Адрес:*\nпр. Абая 45, 2 этаж\n\n📞 *Контакты:*\n+7 707 123 45 67",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position",
+        "QC: information_lost",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "russian",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nРесторан «Астана»\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\nОпыт от 1 года\nОтветственность\n\nУсловия:\nГрафик 2/2\n\nОплата:\nот 250000 тг\n\nАдрес:\nпр. Абая 45, 2 этаж\n\nКонтакты:\n+7 707 123 45 67",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Position"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Должность не указана точно.",
+        "Poster generation blocked — manager approval required.",
+        "Нақты лауазым көрсетілмеген."
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "title": "KFC — mixed курьер",
+    "raw_text": "KFC Алматы\nКурьер керек\n\nЖасы 21+\nЖауапкершілігі жоғары\n\nКүндік жалақы 6000 тг\n\nБекжан базары жанында\nWhatsApp: 87051112233",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "KFC",
+      "vacancy_title": "Курьер",
+      "positions": [],
+      "salary": "Күндік жалақы 6000 тг",
+      "address": "Бекжан базары жанында",
+      "address_notes": "",
+      "phones": [
+        "87051112233"
+      ],
+      "phones_display": [
+        "+7 705 111 22 33"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Жасы 21+",
+        "Жауапкершілігі жоғары"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "KFC",
+      "vacancy_type": "single",
+      "vacancy_title": "Курьер",
+      "positions": [],
+      "salary": "Күндік жалақы 6000 тг",
+      "requirements": [
+        "Жасы 21+",
+        "Жауапкершілігі жоғары"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87051112233"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "Бекжан базары жанында",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nKFC\n\nЛауазым:\nКурьер\n\nТалаптар:\nЖасы 21+\nЖауапкершілігі жоғары\n\nЖалақы:\nКүндік жалақы 6000 тг\n\nМекенжай:\nБекжан базары жанында\n\nБайланыс:\n+7 705 111 22 33",
+      "telegram_text": "🏢 Компания:\nKFC\n\n📌 Лауазым:\nКурьер\n\n📋 Талаптар:\nЖасы 21+\nЖауапкершілігі жоғары\n\n📍 Мекенжай:\nБекжан базары жанында\n\n📞 Байланыс:\n+7 705 111 22 33",
+      "whatsapp_text": "🏢 *Компания:*\nKFC\n\n📌 *Лауазым:*\nКурьер\n\n📋 *Талаптар:*\nЖасы 21+\nЖауапкершілігі жоғары\n\n📍 *Мекенжай:*\nБекжан базары жанында\n\n📞 *Байланыс:*\n+7 705 111 22 33",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Missing fields: Work Schedule"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 90,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nKFC\n\nЛауазым:\nКурьер\n\nТалаптар:\nЖасы 21+\nЖауапкершілігі жоғары\n\nЖалақы:\nКүндік жалақы 6000 тг\n\nМекенжай:\nБекжан базары жанында\n\nБайланыс:\n+7 705 111 22 33",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 90,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [
+        "Work Schedule"
+      ],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "05",
+    "title": "Детская академия — воспитатель",
+    "raw_text": "Балабақша «Академия детства»\nТarbancы қажет\n\nПедагогикалық білім\nТәжірибе 2 жылдан\n\nЖалақы 180000 тг\nГрафик 5/2\n\nмкр. Коктем, 12\nориентир: школа №45\n\n87012345678\nInstagram: akademiya.detstva",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Балабақша «Академия детства»",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "180000 тг",
+      "address": "мкр. Коктем, 12",
+      "address_notes": "ориентир: школа №45",
+      "phones": [
+        "87012345678"
+      ],
+      "phones_display": [
+        "+7 701 234 56 78"
+      ],
+      "instagram": "akademiya.detstva",
+      "requirements": [
+        "Педагогикалық білім",
+        "Тәжірибе 2 жылдан"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 5/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Балабақша «Академия детства»",
+      "vacancy_type": "single",
+      "vacancy_title": "Тarbancы",
+      "positions": [],
+      "salary": "180000 тг",
+      "requirements": [
+        "Педагогикалық білім",
+        "Тәжірибе 2 жылдан"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 5/2"
+      ],
+      "phones": [
+        "87012345678"
+      ],
+      "phones_display": [],
+      "address": "мкр. Коктем, 12",
+      "address_notes": "ориентир: школа №45",
+      "instagram": "akademiya.detstva",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nБалабақша «Академия детства»\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nПедагогикалық білім\nТәжірибе 2 жылдан\n\nШарттары:\nГрафик 5/2\n\nЖалақы:\n180000 тг\n\nМекенжай:\nмкр. Коктем, 12\nориентир: школа №45\n\nБайланыс:\n+7 701 234 56 78\n\nInstagram:\nakademiya.detstva",
+      "telegram_text": "🏢 Компания:\nБалабақша «Академия детства»\n\n📌 Лауазым:\nUNKNOWN_POSITION\n\n📋 Талаптар:\nПедагогикалық білім\nТәжірибе 2 жылдан\n\n⏰ Шарттары:\nГрафик 5/2\n\n📍 Мекенжай:\nмкр. Коктем, 12\nориентир: школа №45\n\n📞 Байланыс:\n+7 701 234 56 78",
+      "whatsapp_text": "🏢 *Компания:*\nБалабақша «Академия детства»\n\n📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📋 *Талаптар:*\nПедагогикалық білім\nТәжірибе 2 жылдан\n\n⏰ *Шарттары:*\nГрафик 5/2\n\n📍 *Мекенжай:*\nмкр. Коктем, 12\nориентир: школа №45\n\n📞 *Байланыс:*\n+7 701 234 56 78",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position",
+        "QC: information_lost",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 55,
+      "can_approve": false
+    },
+    "after": "Компания:\nБалабақша «Академия детства»\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nПедагогикалық білім\nТәжірибе 2 жылдан\n\nШарттары:\nГрафик 5/2\n\nЖалақы:\n180000 тг\n\nМекенжай:\nмкр. Коктем, 12\nориентир: школа №45\n\nБайланыс:\n+7 701 234 56 78\n\nInstagram:\nakademiya.detstva",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Position"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 55,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "title": "Стройка — разнорабочий",
+    "raw_text": "Строительная компания «Байтерек»\nТребуются разнорабочие\n\nБез опыта\nФизически выносливый\n\nЗ/П ежедневная 8000 тг\nГрафик 6/1\n\nул. Сатпаева 100\nКонтакты: 87771234567",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Байтерек",
+      "vacancy_title": "Разнорабочие",
+      "positions": [],
+      "salary": "З/П ежедневная 8000 тг",
+      "address": "ул. Сатпаева 100",
+      "address_notes": "",
+      "phones": [
+        "87771234567"
+      ],
+      "phones_display": [
+        "+7 777 123 45 67"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Без опыта",
+        "Физически выносливый"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 6/1"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Байтерек",
+      "vacancy_type": "multi",
+      "vacancy_title": "Разнорабочие",
+      "positions": [],
+      "salary": "З/П ежедневная 8000 тг",
+      "requirements": [
+        "Без опыта",
+        "Физически выносливый"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 6/1"
+      ],
+      "phones": [
+        "87771234567"
+      ],
+      "phones_display": [],
+      "address": "ул. Сатпаева 100",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nБайтерек\n\nДолжность:\nРазнорабочие\n\nТребования:\nБез опыта\nФизически выносливый\n\nУсловия:\nГрафик 6/1\n\nОплата:\nЗ/П ежедневная 8000 тг\n\nАдрес:\nул. Сатпаева 100\n\nКонтакты:\n+7 777 123 45 67",
+      "telegram_text": "🏢 Компания:\nБайтерек\n\n📌 Должность:\nРазнорабочие\n\n📋 Требования:\nБез опыта\nФизически выносливый\n\n⏰ Условия:\nГрафик 6/1\n\n📍 Адрес:\nул. Сатпаева 100\n\n📞 Контакты:\n+7 777 123 45 67",
+      "whatsapp_text": "🏢 *Компания:*\nБайтерек\n\n📌 *Должность:*\nРазнорабочие\n\n📋 *Требования:*\nБез опыта\nФизически выносливый\n\n⏰ *Условия:*\nГрафик 6/1\n\n📍 *Адрес:*\nул. Сатпаева 100\n\n📞 *Контакты:*\n+7 777 123 45 67",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "russian",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nБайтерек\n\nДолжность:\nРазнорабочие\n\nТребования:\nБез опыта\nФизически выносливый\n\nУсловия:\nГрафик 6/1\n\nОплата:\nЗ/П ежедневная 8000 тг\n\nАдрес:\nул. Сатпаева 100\n\nКонтакты:\n+7 777 123 45 67",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "07",
+    "title": "Аптека — фармацевт",
+    "raw_text": "Аптека «Дensa»\nФarmacевт қажет\n\nФarmacevtikalyq bіlіm\nTәjіribe mіndettі\n\nЖалақы 220000 тг\nЖұмыс уақыты 08:00-20:00\n\nк. Алматы, ул. Жандосова 55\n87009876543",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Аптека «Densa»",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "220000 тг",
+      "address": "к. Алматы, ул. Жандосова 55",
+      "address_notes": "",
+      "phones": [
+        "87009876543"
+      ],
+      "phones_display": [
+        "+7 700 987 65 43"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Фармацевтикалық білім",
+        "Тәжірибе міндетті"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Жұмыс уақыты 08:00-20:00"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Аптека «Дensa»",
+      "vacancy_type": "single",
+      "vacancy_title": "Фармацевт",
+      "positions": [],
+      "salary": "220000 тг",
+      "requirements": [
+        "Фармацевтикалық білім",
+        "Тәжірибе міндетті"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Жұмыс уақыты 08:00-20:00"
+      ],
+      "phones": [
+        "87009876543"
+      ],
+      "phones_display": [],
+      "address": "к. Алматы, ул. Жандосова 55",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nАптека «Densa»\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nФармацевтикалық білім\nТәжірибе міндетті\n\nШарттары:\nЖұмыс уақыты 08:00-20:00\n\nЖалақы:\n220000 тг\n\nМекенжай:\nк. Алматы, ул. Жандосова 55\n\nБайланыс:\n+7 700 987 65 43",
+      "telegram_text": "🏢 Компания:\nАптека «Densa»\n\n📌 Лауазым:\nUNKNOWN_POSITION\n\n📋 Талаптар:\nФармацевтикалық білім\nТәжірибе міндетті\n\n⏰ Шарттары:\nЖұмыс уақыты 08:00-20:00\n\n📍 Мекенжай:\nк. Алматы, ул. Жандосова 55\n\n📞 Байланыс:\n+7 700 987 65 43",
+      "whatsapp_text": "🏢 *Компания:*\nАптека «Densa»\n\n📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📋 *Талаптар:*\nФармацевтикалық білім\nТәжірибе міндетті\n\n⏰ *Шарттары:*\nЖұмыс уақыты 08:00-20:00\n\n📍 *Мекенжай:*\nк. Алматы, ул. Жандосова 55\n\n📞 *Байланыс:*\n+7 700 987 65 43",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position",
+        "QC: information_lost",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nАптека «Densa»\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nФармацевтикалық білім\nТәжірибе міндетті\n\nШарттары:\nЖұмыс уақыты 08:00-20:00\n\nЖалақы:\n220000 тг\n\nМекенжай:\nк. Алматы, ул. Жандосова 55\n\nБайланыс:\n+7 700 987 65 43",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Position"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "title": "Кафе — барista multi",
+    "raw_text": "Кофейня «Barista» набор персонала\n\nВакансии:\nБарista\nОфициант\nУборщица\n\nОпыт приветствуется\nКоммуникабельность\n\nЗ/П от 150000\nГрафик сменный\n\nпр. Достык 89\n+77011234567",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Кофейня «Barista»",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "З/П от 150000",
+      "address": "пр. Достык 89",
+      "address_notes": "",
+      "phones": [
+        "87011234567"
+      ],
+      "phones_display": [
+        "+7 701 123 45 67"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Опыт приветствуется"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График сменный"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Кофейня «Barista»",
+      "vacancy_type": "multi",
+      "vacancy_title": "",
+      "positions": [
+        "Барista",
+        "Официант",
+        "Уборщица"
+      ],
+      "salary": "З/П от 150000",
+      "requirements": [
+        "Опыт приветствуется",
+        "Коммуникабельность"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График сменный"
+      ],
+      "phones": [
+        "+77011234567"
+      ],
+      "phones_display": [],
+      "address": "пр. Достык 89",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nКофейня «Barista»\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\nОпыт приветствуется\n\nУсловия:\nГрафик сменный\n\nОплата:\nЗ/П от 150000\n\nАдрес:\nпр. Достык 89\n\nКонтакты:\n+7 701 123 45 67",
+      "telegram_text": "🏢 Компания:\nКофейня «Barista»\n\n📌 Должность:\nUNKNOWN_POSITION\n\n📋 Требования:\nОпыт приветствуется\n\n⏰ Условия:\nГрафик сменный\n\n📍 Адрес:\nпр. Достык 89\n\n📞 Контакты:\n+7 701 123 45 67",
+      "whatsapp_text": "🏢 *Компания:*\nКофейня «Barista»\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n📋 *Требования:*\nОпыт приветствуется\n\n⏰ *Условия:*\nГрафик сменный\n\n📍 *Адрес:*\nпр. Достык 89\n\n📞 *Контакты:*\n+7 701 123 45 67",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position",
+        "QC: information_lost",
+        "QC: information_invented",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "russian",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nКофейня «Barista»\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\nОпыт приветствуется\n\nУсловия:\nГрафик сменный\n\nОплата:\nЗ/П от 150000\n\nАдрес:\nпр. Достык 89\n\nКонтакты:\n+7 701 123 45 67",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Position"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Должность не указана точно.",
+        "Poster generation blocked — manager approval required.",
+        "Нақты лауазым көрсетілмеген."
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "title": "Тaxi — водитель",
+    "raw_text": "Тaxi «CityGo»\nЖүргізуші керек\n\nЖеке көлігі болуы керек\nЖүргізуші куәлігі B категория\n\nКүндік табыс 15000-25000 тг\nТәулік бойы\n\nШымкент, Бекжан базары\n87055556677",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Taxi «CityGo»",
+      "vacancy_title": "Жүргізуші",
+      "positions": [],
+      "salary": "Күндік табыс 15000-25000 тг",
+      "address": "Шымкент, Бекжан базары",
+      "address_notes": "",
+      "phones": [
+        "87055556677"
+      ],
+      "phones_display": [
+        "+7 705 555 66 77"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Жеке көлігі болуы керек",
+        "Жүргізуші куәлігі B категория"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Тәулік бойы"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Taxi «CityGo»",
+      "vacancy_type": "single",
+      "vacancy_title": "Жүргізуші",
+      "positions": [],
+      "salary": "Күндік табыс 15000-25000 тг",
+      "requirements": [
+        "Жеке көлігі болуы керек",
+        "Жүргізуші куәлігі B категория"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Тәулік бойы"
+      ],
+      "phones": [
+        "87055556677"
+      ],
+      "phones_display": [],
+      "address": "Шымкент, Бекжан базары",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nTaxi «CityGo»\n\nЛауазым:\nЖүргізуші\n\nТалаптар:\nЖеке көлігі болуы керек\nЖүргізуші куәлігі B категория\n\nШарттары:\nТәулік бойы\n\nЖалақы:\nКүндік табыс 15000-25000 тг\n\nМекенжай:\nШымкент, Бекжан базары\n\nБайланыс:\n+7 705 555 66 77",
+      "telegram_text": "🏢 Компания:\nTaxi «CityGo»\n\n📌 Лауазым:\nЖүргізуші\n\n📋 Талаптар:\nЖеке көлігі болуы керек\nЖүргізуші куәлігі B категория\n\n⏰ Шарттары:\nТәулік бойы\n\n📍 Мекенжай:\nШымкент, Бекжан базары\n\n📞 Байланыс:\n+7 705 555 66 77",
+      "whatsapp_text": "🏢 *Компания:*\nTaxi «CityGo»\n\n📌 *Лауазым:*\nЖүргізуші\n\n📋 *Талаптар:*\nЖеке көлігі болуы керек\nЖүргізуші куәлігі B категория\n\n⏰ *Шарттары:*\nТәулік бойы\n\n📍 *Мекенжай:*\nШымкент, Бекжан базары\n\n📞 *Байланыс:*\n+7 705 555 66 77",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Missing fields: Work Schedule"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 90,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nTaxi «CityGo»\n\nЛауазым:\nЖүргізуші\n\nТалаптар:\nЖеке көлігі болуы керек\nЖүргізуші куәлігі B категория\n\nШарттары:\nТәулік бойы\n\nЖалақы:\nКүндік табыс 15000-25000 тг\n\nМекенжай:\nШымкент, Бекжан базары\n\nБайланыс:\n+7 705 555 66 77",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 90,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [
+        "Work Schedule"
+      ],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "10",
+    "title": "Склад — грузчик",
+    "raw_text": "Склад Wildberries\nГрузчик нужен\n\nМужчина 20-45 лет\nБез вредных привычек\n\n350000 тг + бонусы\n2/2\n\nЛогистический центр, ул. Райымbek 30\nWhatsApp 87073334455",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Wildberries",
+      "vacancy_title": "Грузчик",
+      "positions": [],
+      "salary": "350000 тг + бонусы",
+      "address": "ул. Райымбек 30",
+      "address_notes": "Логистический центр",
+      "phones": [
+        "87073334455"
+      ],
+      "phones_display": [
+        "+7 707 333 44 55"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Мужчина 20-45 лет",
+        "Без вредных привычек"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Wildberries",
+      "vacancy_type": "single",
+      "vacancy_title": "Грузчик",
+      "positions": [],
+      "salary": "350000 тг + бонусы",
+      "requirements": [
+        "Мужчина 20-45 лет",
+        "Без вредных привычек"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "2/2"
+      ],
+      "phones": [
+        "87073334455"
+      ],
+      "phones_display": [],
+      "address": "ул. Райымбек 30",
+      "address_notes": "Логистический центр",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nWildberries\n\nДолжность:\nГрузчик\n\nТребования:\nМужчина 20-45 лет\nБез вредных привычек\n\nУсловия:\n2/2\n\nОплата:\n350000 тг + бонусы\n\nАдрес:\nул. Райымбек 30\nЛогистический центр\n\nКонтакты:\n+7 707 333 44 55",
+      "telegram_text": "🏢 Компания:\nWildberries\n\n📌 Должность:\nГрузчик\n\n📋 Требования:\nМужчина 20-45 лет\nБез вредных привычек\n\n⏰ Условия:\n2/2\n\n📍 Адрес:\nул. Райымбек 30\nЛогистический центр\n\n📞 Контакты:\n+7 707 333 44 55",
+      "whatsapp_text": "🏢 *Компания:*\nWildberries\n\n📌 *Должность:*\nГрузчик\n\n📋 *Требования:*\nМужчина 20-45 лет\nБез вредных привычек\n\n⏰ *Условия:*\n2/2\n\n📍 *Адрес:*\nул. Райымбек 30\nЛогистический центр\n\n📞 *Контакты:*\n+7 707 333 44 55",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "russian",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nWildberries\n\nДолжность:\nГрузчик\n\nТребования:\nМужчина 20-45 лет\nБез вредных привычек\n\nУсловия:\n2/2\n\nОплата:\n350000 тг + бонусы\n\nАдрес:\nул. Райымбек 30\nЛогистический центр\n\nКонтакты:\n+7 707 333 44 55",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "11",
+    "title": "Салон красоты — мастер",
+    "raw_text": "Салон «Glamour»\nШаш kesу шебері қажет\n\nTәjіribe 1 жыл\nКлиентпен жұмыс істей алу\n\nЖалақы 40% от оборота\nГрафик 2/2\n\nул. Кабанбай батыра 14\n87081112233",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Салон «Glamour»",
+      "vacancy_title": "Шаш kesу шебері",
+      "positions": [],
+      "salary": "Жалақы 40% от оборота",
+      "address": "ул. Кабанбай батыра 14",
+      "address_notes": "",
+      "phones": [
+        "87081112233"
+      ],
+      "phones_display": [
+        "+7 708 111 22 33"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Tәjіribe 1 жыл",
+        "Клиентпен жұмыс істей алу"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Салон «Glamour»",
+      "vacancy_type": "single",
+      "vacancy_title": "Шаш kesу шебері",
+      "positions": [],
+      "salary": "Жалақы 40% от оборота",
+      "requirements": [
+        "Tәjіribe 1 жыл",
+        "Клиентпен жұмыс істей алу"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "phones": [
+        "87081112233"
+      ],
+      "phones_display": [],
+      "address": "ул. Кабанбай батыра 14",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nСалон «Glamour»\n\nЛауазым:\nШаш kesу шебері\n\nТалаптар:\nTәjіribe 1 жыл\nКлиентпен жұмыс істей алу\n\nШарттары:\nГрафик 2/2\n\nЖалақы:\nЖалақы 40% от оборота\n\nМекенжай:\nул. Кабанбай батыра 14\n\nБайланыс:\n+7 708 111 22 33",
+      "telegram_text": "🏢 Компания:\nСалон «Glamour»\n\n📌 Лауазым:\nШаш kesу шебері\n\n📋 Талаптар:\nTәjіribe 1 жыл\nКлиентпен жұмыс істей алу\n\n⏰ Шарттары:\nГрафик 2/2\n\n📍 Мекенжай:\nул. Кабанбай батыра 14\n\n📞 Байланыс:\n+7 708 111 22 33",
+      "whatsapp_text": "🏢 *Компания:*\nСалон «Glamour»\n\n📌 *Лауазым:*\nШаш kesу шебері\n\n📋 *Талаптар:*\nTәjіribe 1 жыл\nКлиентпен жұмыс істей алу\n\n⏰ *Шарттары:*\nГрафик 2/2\n\n📍 *Мекенжай:*\nул. Кабанбай батыра 14\n\n📞 *Байланыс:*\n+7 708 111 22 33",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "kazakh",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nСалон «Glamour»\n\nЛауазым:\nШаш kesу шебері\n\nТалаптар:\nTәjіribe 1 жыл\nКлиентпен жұмыс істей алу\n\nШарттары:\nГрафик 2/2\n\nЖалақы:\nЖалақы 40% от оборота\n\nМекенжай:\nул. Кабанбай батыра 14\n\nБайланыс:\n+7 708 111 22 33",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "12",
+    "title": "IT — программист",
+    "raw_text": "IT компания «TechNomad»\nMiddle Python developer\n\nPython 3+, Django, PostgreSQL\nОпыт от 2 лет\nАнглийский B1\n\nЗ/П 600000-800000 тг\nУдалённо / офис\n\nг. Астана, EXPO\nhr@technomad.kz\n87099998877",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "TechNomad",
+      "vacancy_title": "Middle Python developer",
+      "positions": [],
+      "salary": "600000-800000 тг",
+      "address": "г. Астана, EXPO",
+      "address_notes": "",
+      "phones": [
+        "87099998877"
+      ],
+      "phones_display": [
+        "+7 709 999 88 77"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Python 3+",
+        "Django",
+        "PostgreSQL",
+        "Опыт от 2 лет",
+        "Английский B1"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Удалённо / офис"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "TechNomad",
+      "vacancy_type": "single",
+      "vacancy_title": "Middle Python developer",
+      "positions": [],
+      "salary": "600000-800000 тг",
+      "requirements": [
+        "Python 3+",
+        "Django",
+        "PostgreSQL",
+        "Опыт от 2 лет",
+        "Английский B1"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Удалённо / офис"
+      ],
+      "phones": [
+        "87099998877"
+      ],
+      "phones_display": [],
+      "address": "г. Астана, EXPO",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nTechNomad\n\nДолжность:\nMiddle Python developer\n\nТребования:\nPython 3+\nDjango\nPostgreSQL\nОпыт от 2 лет\nАнглийский B1\n\nУсловия:\nУдалённо / офис\n\nОплата:\n600000-800000 тг\n\nАдрес:\nг. Астана, EXPO\n\nКонтакты:\n+7 709 999 88 77",
+      "telegram_text": "🏢 Компания:\nTechNomad\n\n📌 Должность:\nMiddle Python developer\n\n📋 Требования:\nPython 3+\nDjango\nPostgreSQL\nОпыт от 2 лет\nАнглийский B1\n\n⏰ Условия:\nУдалённо / офис\n\n📍 Адрес:\nг. Астана, EXPO\n\n📞 Контакты:\n+7 709 999 88 77",
+      "whatsapp_text": "🏢 *Компания:*\nTechNomad\n\n📌 *Должность:*\nMiddle Python developer\n\n📋 *Требования:*\nPython 3+\nDjango\nPostgreSQL\nОпыт от 2 лет\nАнглийский B1\n\n⏰ *Условия:*\nУдалённо / офис\n\n📍 *Адрес:*\nг. Астана, EXPO\n\n📞 *Контакты:*\n+7 709 999 88 77",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Missing fields: Work Schedule",
+        "CRITICAL_DATA_MISSING",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "russian",
+      "completeness_score": 90,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": false
+    },
+    "after": "Компания:\nTechNomad\n\nДолжность:\nMiddle Python developer\n\nТребования:\nPython 3+\nDjango\nPostgreSQL\nОпыт от 2 лет\nАнглийский B1\n\nУсловия:\nУдалённо / офис\n\nОплата:\n600000-800000 тг\n\nАдрес:\nг. Астана, EXPO\n\nКонтакты:\n+7 709 999 88 77",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": true,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [],
+      "warnings": [
+        "Instagram mentioned in raw text but missing in structured data"
+      ]
+    },
+    "completeness": {
+      "score": 90,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [
+        "Work Schedule"
+      ],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": [
+        "Instagram mentioned in raw text but missing in structured data"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "title": "Отель — горничная",
+    "raw_text": "Отель «Rixos»\nГорничная\n\nОпыт не обязателен\nАккуратность\n\n250000 тг\nПитание включено\nГрафик 2/2\n\nул. Кунаева 7\nКонтакты: 87076665544",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Отель «Rixos»",
+      "vacancy_title": "Горничная",
+      "positions": [],
+      "salary": "250000 тг",
+      "address": "ул. Кунаева 7",
+      "address_notes": "",
+      "phones": [
+        "87076665544"
+      ],
+      "phones_display": [
+        "+7 707 666 55 44"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Опыт не обязателен",
+        "Аккуратность"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Питание включено",
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Отель «Rixos»",
+      "vacancy_type": "single",
+      "vacancy_title": "Горничная",
+      "positions": [],
+      "salary": "250000 тг",
+      "requirements": [
+        "Опыт не обязателен",
+        "Аккуратность"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Питание включено",
+        "График 2/2"
+      ],
+      "phones": [
+        "87076665544"
+      ],
+      "phones_display": [],
+      "address": "ул. Кунаева 7",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nОтель «Rixos»\n\nДолжность:\nГорничная\n\nТребования:\nОпыт не обязателен\nАккуратность\n\nУсловия:\nПитание включено\nГрафик 2/2\n\nОплата:\n250000 тг\n\nАдрес:\nул. Кунаева 7\n\nКонтакты:\n+7 707 666 55 44",
+      "telegram_text": "🏢 Компания:\nОтель «Rixos»\n\n📌 Должность:\nГорничная\n\n📋 Требования:\nОпыт не обязателен\nАккуратность\n\n⏰ Условия:\nПитание включено\nГрафик 2/2\n\n📍 Адрес:\nул. Кунаева 7\n\n📞 Контакты:\n+7 707 666 55 44",
+      "whatsapp_text": "🏢 *Компания:*\nОтель «Rixos»\n\n📌 *Должность:*\nГорничная\n\n📋 *Требования:*\nОпыт не обязателен\nАккуратность\n\n⏰ *Условия:*\nПитание включено\nГрафик 2/2\n\n📍 *Адрес:*\nул. Кунаева 7\n\n📞 *Контакты:*\n+7 707 666 55 44",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "russian",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nОтель «Rixos»\n\nДолжность:\nГорничная\n\nТребования:\nОпыт не обязателен\nАккуратность\n\nУсловия:\nПитание включено\nГрафик 2/2\n\nОплата:\n250000 тг\n\nАдрес:\nул. Кунаева 7\n\nКонтакты:\n+7 707 666 55 44",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "14",
+    "title": "Пекарня — пекарь KK",
+    "raw_text": "Нан зауыты «Астана нан»\nНан пişіруші қажет\n\nТәжірибе міндетті емес\nДенсаулығы мықты\n\nКүндік жалақы 7000 тг\nТаңертеңгі ауысым\n\nмкр. Орбита 3\n87014443322",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Астана нан",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "Күндік жалақы 7000 тг",
+      "address": "мкр. Орбита 3",
+      "address_notes": "",
+      "phones": [
+        "87014443322"
+      ],
+      "phones_display": [
+        "+7 701 444 33 22"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Тәжірибе міндетті емес",
+        "Денсаулығы мықты"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Таңертеңгі ауысым"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Астана нан",
+      "vacancy_type": "single",
+      "vacancy_title": "Нан пішірүші",
+      "positions": [],
+      "salary": "Күндік жалақы 7000 тг",
+      "requirements": [
+        "Тәжірибе міндетті емес",
+        "Денсаулығы мықты"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Таңертеңгі ауысым"
+      ],
+      "phones": [
+        "87014443322"
+      ],
+      "phones_display": [],
+      "address": "мкр. Орбита 3",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nАстана нан\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nТәжірибе міндетті емес\nДенсаулығы мықты\n\nШарттары:\nТаңертеңгі ауысым\n\nЖалақы:\nКүндік жалақы 7000 тг\n\nМекенжай:\nмкр. Орбита 3\n\nБайланыс:\n+7 701 444 33 22",
+      "telegram_text": "🏢 Компания:\nАстана нан\n\n📌 Лауазым:\nUNKNOWN_POSITION\n\n📋 Талаптар:\nТәжірибе міндетті емес\nДенсаулығы мықты\n\n⏰ Шарттары:\nТаңертеңгі ауысым\n\n📍 Мекенжай:\nмкр. Орбита 3\n\n📞 Байланыс:\n+7 701 444 33 22",
+      "whatsapp_text": "🏢 *Компания:*\nАстана нан\n\n📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📋 *Талаптар:*\nТәжірибе міндетті емес\nДенсаулығы мықты\n\n⏰ *Шарттары:*\nТаңертеңгі ауысым\n\n📍 *Мекенжай:*\nмкр. Орбита 3\n\n📞 *Байланыс:*\n+7 701 444 33 22",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (65/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Work Schedule",
+        "QC: information_lost",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 65,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nАстана нан\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nТәжірибе міндетті емес\nДенсаулығы мықты\n\nШарттары:\nТаңертеңгі ауысым\n\nЖалақы:\nКүндік жалақы 7000 тг\n\nМекенжай:\nмкр. Орбита 3\n\nБайланыс:\n+7 701 444 33 22",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 65,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "title": "Call-center — оператор",
+    "raw_text": "Call-center «Support KZ»\nОperator керек\n\nҚазақ және орыс тілінде сөйлеу\nКомпьютерді білу\n\nЖалақы 200000 тг + бонус\n5/2 09:00-18:00\n\nБЦ «Нурлы Тау», 5 этаж\n87032221100",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Support KZ",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "200000 тг + бонус",
+      "address": "БЦ «Нурлы Тау», 5 этаж",
+      "address_notes": "",
+      "phones": [
+        "87032221100"
+      ],
+      "phones_display": [
+        "+7 703 222 11 00"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Қазақ және орыс тілінде сөйлеу",
+        "Компьютерді білу"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "5/2 09:00-18:00"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Support KZ",
+      "vacancy_type": "single",
+      "vacancy_title": "Оператор",
+      "positions": [],
+      "salary": "200000 тг + бонус",
+      "requirements": [
+        "Қазақ және орыс тілінде сөйлеу",
+        "Компьютерді білу"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "5/2 09:00-18:00"
+      ],
+      "phones": [
+        "87032221100"
+      ],
+      "phones_display": [],
+      "address": "БЦ «Нурлы Тау», 5 этаж",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nSupport KZ\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nҚазақ және орыс тілінде сөйлеу\nКомпьютерді білу\n\nШарттары:\n5/2 09:00-18:00\n\nЖалақы:\n200000 тг + бонус\n\nМекенжай:\nБЦ «Нурлы Тау», 5 этаж\n\nБайланыс:\n+7 703 222 11 00",
+      "telegram_text": "🏢 Компания:\nSupport KZ\n\n📌 Лауазым:\nUNKNOWN_POSITION\n\n📋 Талаптар:\nҚазақ және орыс тілінде сөйлеу\nКомпьютерді білу\n\n⏰ Шарттары:\n5/2 09:00-18:00\n\n📍 Мекенжай:\nБЦ «Нурлы Тау», 5 этаж\n\n📞 Байланыс:\n+7 703 222 11 00",
+      "whatsapp_text": "🏢 *Компания:*\nSupport KZ\n\n📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📋 *Талаптар:*\nҚазақ және орыс тілінде сөйлеу\nКомпьютерді білу\n\n⏰ *Шарттары:*\n5/2 09:00-18:00\n\n📍 *Мекенжай:*\nБЦ «Нурлы Тау», 5 этаж\n\n📞 *Байланыс:*\n+7 703 222 11 00",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position",
+        "QC: information_lost",
+        "QC: information_invented",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nSupport KZ\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nҚазақ және орыс тілінде сөйлеу\nКомпьютерді білу\n\nШарттары:\n5/2 09:00-18:00\n\nЖалақы:\n200000 тг + бонус\n\nМекенжай:\nБЦ «Нурлы Тау», 5 этаж\n\nБайланыс:\n+7 703 222 11 00",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Position"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "title": "Автомойка — мойщик",
+    "raw_text": "Автомойка «CleanCar»\nМойщик автомобилей\n\nБез опыта, обучим\n\nЗ/П 180000\n1/1\n\nТРЦ Mega, парковка\n87067778899",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Автомойка «CleanCar»",
+      "vacancy_title": "Мойщик автомобилей",
+      "positions": [],
+      "salary": "З/П 180000",
+      "address": "ТРЦ Mega, парковка",
+      "address_notes": "",
+      "phones": [
+        "87067778899"
+      ],
+      "phones_display": [
+        "+7 706 777 88 99"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Без опыта, обучим"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "1/1"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Автомойка «CleanCar»",
+      "vacancy_type": "single",
+      "vacancy_title": "Мойщик автомобилей",
+      "positions": [],
+      "salary": "З/П 180000",
+      "requirements": [
+        "Без опыта, обучим"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "1/1"
+      ],
+      "phones": [
+        "87067778899"
+      ],
+      "phones_display": [],
+      "address": "ТРЦ Mega, парковка",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nАвтомойка «CleanCar»\n\nДолжность:\nМойщик автомобилей\n\nТребования:\nБез опыта, обучим\n\nУсловия:\n1/1\n\nОплата:\nЗ/П 180000\n\nАдрес:\nТРЦ Mega, парковка\n\nКонтакты:\n+7 706 777 88 99",
+      "telegram_text": "🏢 Компания:\nАвтомойка «CleanCar»\n\n📌 Должность:\nМойщик автомобилей\n\n📋 Требования:\nБез опыта, обучим\n\n⏰ Условия:\n1/1\n\n📍 Адрес:\nТРЦ Mega, парковка\n\n📞 Контакты:\n+7 706 777 88 99",
+      "whatsapp_text": "🏢 *Компания:*\nАвтомойка «CleanCar»\n\n📌 *Должность:*\nМойщик автомобилей\n\n📋 *Требования:*\nБез опыта, обучим\n\n⏰ *Условия:*\n1/1\n\n📍 *Адрес:*\nТРЦ Mega, парковка\n\n📞 *Контакты:*\n+7 706 777 88 99",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "russian",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nАвтомойка «CleanCar»\n\nДолжность:\nМойщик автомобилей\n\nТребования:\nБез опыта, обучим\n\nУсловия:\n1/1\n\nОплата:\nЗ/П 180000\n\nАдрес:\nТРЦ Mega, парковка\n\nКонтакты:\n+7 706 777 88 99",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "17",
+    "title": "Фитнес — тренер",
+    "raw_text": "Fitness club «PowerGym»\nЖеке дене шынықтырушы\n\nСертификат міндетті\nTәjіribe 3 жыл\n\nЖалақы kelіsіmdі\nТәулік бойы клуб\n\nпр. Аль-Фараби 77\nInstagram: powergym.kz\n87056667788",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Fitness club «PowerGym»",
+      "vacancy_title": "Жеке дене шынықтырушы",
+      "positions": [],
+      "salary": "Жалақы kelісіmdі",
+      "address": "пр. Аль-Фараби 77",
+      "address_notes": "",
+      "phones": [
+        "87056667788"
+      ],
+      "phones_display": [
+        "+7 705 666 77 88"
+      ],
+      "instagram": "powergym.kz",
+      "requirements": [
+        "Сертификат міндетті",
+        "Tәjіribe 3 жыл"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Тәулік бойы клуб"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Fitness club «PowerGym»",
+      "vacancy_type": "single",
+      "vacancy_title": "Жеке дене шынықтырушы",
+      "positions": [],
+      "salary": "Жалақы kelіsіmdі",
+      "requirements": [
+        "Сертификат міндетті",
+        "Tәjіribe 3 жыл"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Тәулік бойы клуб"
+      ],
+      "phones": [
+        "87056667788"
+      ],
+      "phones_display": [],
+      "address": "пр. Аль-Фараби 77",
+      "address_notes": "",
+      "instagram": "powergym.kz",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nFitness club «PowerGym»\n\nЛауазым:\nЖеке дене шынықтырушы\n\nТалаптар:\nСертификат міндетті\nTәjіribe 3 жыл\n\nШарттары:\nТәулік бойы клуб\n\nЖалақы:\nЖалақы kelісіmdі\n\nМекенжай:\nпр. Аль-Фараби 77\n\nБайланыс:\n+7 705 666 77 88\n\nInstagram:\npowergym.kz",
+      "telegram_text": "🏢 Компания:\nFitness club «PowerGym»\n\n📌 Лауазым:\nЖеке дене шынықтырушы\n\n📋 Талаптар:\nСертификат міндетті\nTәjіribe 3 жыл\n\n⏰ Шарттары:\nТәулік бойы клуб\n\n📍 Мекенжай:\nпр. Аль-Фараби 77\n\n📞 Байланыс:\n+7 705 666 77 88",
+      "whatsapp_text": "🏢 *Компания:*\nFitness club «PowerGym»\n\n📌 *Лауазым:*\nЖеке дене шынықтырушы\n\n📋 *Талаптар:*\nСертификат міндетті\nTәjіribe 3 жыл\n\n⏰ *Шарттары:*\nТәулік бойы клуб\n\n📍 *Мекенжай:*\nпр. Аль-Фараби 77\n\n📞 *Байланыс:*\n+7 705 666 77 88",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Missing fields: Work Schedule"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 90,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nFitness club «PowerGym»\n\nЛауазым:\nЖеке дене шынықтырушы\n\nТалаптар:\nСертификат міндетті\nTәjіribe 3 жыл\n\nШарттары:\nТәулік бойы клуб\n\nЖалақы:\nЖалақы kelісіmdі\n\nМекенжай:\nпр. Аль-Фараби 77\n\nБайланыс:\n+7 705 666 77 88\n\nInstagram:\npowergym.kz",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 90,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [
+        "Work Schedule"
+      ],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "18",
+    "title": "Магазин одежды — продавец",
+    "raw_text": "Магазин «Zara KZ»\nПродавец-консультант\n\nКоммуникабельность\nОпыт в retail\n\n300000 тг\nГрафик 2/2\n\nТРЦ Dostyk Plaza\n87045556677",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Zara KZ",
+      "vacancy_title": "Продавец-консультант",
+      "positions": [],
+      "salary": "300000 тг",
+      "address": "ТРЦ Dostyk Plaza",
+      "address_notes": "",
+      "phones": [
+        "87045556677"
+      ],
+      "phones_display": [
+        "+7 704 555 66 77"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Коммуникабельность"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Zara KZ",
+      "vacancy_type": "single",
+      "vacancy_title": "Продавец-консультант",
+      "positions": [],
+      "salary": "300000 тг",
+      "requirements": [
+        "Коммуникабельность",
+        "Опыт в retail"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "phones": [
+        "87045556677"
+      ],
+      "phones_display": [],
+      "address": "ТРЦ Dostyk Plaza",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nZara KZ\n\nДолжность:\nПродавец-консультант\n\nТребования:\nКоммуникабельность\n\nУсловия:\nГрафик 2/2\n\nОплата:\n300000 тг\n\nАдрес:\nТРЦ Dostyk Plaza\n\nКонтакты:\n+7 704 555 66 77",
+      "telegram_text": "🏢 Компания:\nZara KZ\n\n📌 Должность:\nПродавец-консультант\n\n📋 Требования:\nКоммуникабельность\n\n⏰ Условия:\nГрафик 2/2\n\n📍 Адрес:\nТРЦ Dostyk Plaza\n\n📞 Контакты:\n+7 704 555 66 77",
+      "whatsapp_text": "🏢 *Компания:*\nZara KZ\n\n📌 *Должность:*\nПродавец-консультант\n\n📋 *Требования:*\nКоммуникабельность\n\n⏰ *Условия:*\nГрафик 2/2\n\n📍 *Адрес:*\nТРЦ Dostyk Plaza\n\n📞 *Контакты:*\n+7 704 555 66 77",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "russian",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nZara KZ\n\nДолжность:\nПродавец-консультант\n\nТребования:\nКоммуникабельность\n\nУсловия:\nГрафик 2/2\n\nОплата:\n300000 тг\n\nАдрес:\nТРЦ Dostyk Plaza\n\nКонтакты:\n+7 704 555 66 77",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "19",
+    "title": "Доставка еды — multi",
+    "raw_text": "Сервис доставки «FoodGo»\nНесколько вакансий:\n\nКурьер\nСборщик заказов\nОператор\n\n18+\nСмартфон обязателен\n\nЗ/П от 200000\nГибкий график\n\nул. Толе би 100\n87034445566",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Сервис доставки «FoodGo»",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [
+        "Курьер",
+        "Сборщик заказов",
+        "Оператор"
+      ],
+      "salary": "З/П от 200000",
+      "address": "ул. Толе би 100",
+      "address_notes": "",
+      "phones": [
+        "87034445566"
+      ],
+      "phones_display": [
+        "+7 703 444 55 66"
+      ],
+      "instagram": "",
+      "requirements": [
+        "18+",
+        "Смартфон обязателен"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Гибкий график"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Сервис доставки «FoodGo»",
+      "vacancy_type": "multi",
+      "vacancy_title": "",
+      "positions": [
+        "Курьер",
+        "Сборщик заказов",
+        "Оператор"
+      ],
+      "salary": "З/П от 200000",
+      "requirements": [
+        "18+",
+        "Смартфон обязателен"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Гибкий график"
+      ],
+      "phones": [
+        "87034445566"
+      ],
+      "phones_display": [],
+      "address": "ул. Толе би 100",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nСервис доставки «FoodGo»\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\n18+\nСмартфон обязателен\n\nУсловия:\nГибкий график\n\nОплата:\nЗ/П от 200000\n\nАдрес:\nул. Толе би 100\n\nКонтакты:\n+7 703 444 55 66",
+      "telegram_text": "🏢 Компания:\nСервис доставки «FoodGo»\n\n📌 Должность:\nКурьер\nСборщик заказов\nОператор\n\n📋 Требования:\n18+\nСмартфон обязателен\n\n⏰ Условия:\nГибкий график\n\n📍 Адрес:\nул. Толе би 100\n\n📞 Контакты:\n+7 703 444 55 66",
+      "whatsapp_text": "🏢 *Компания:*\nСервис доставки «FoodGo»\n\n📌 *Должность:*\nКурьер\nСборщик заказов\nОператор\n\n📋 *Требования:*\n18+\nСмартфон обязателен\n\n⏰ *Условия:*\nГибкий график\n\n📍 *Адрес:*\nул. Толе би 100\n\n📞 *Контакты:*\n+7 703 444 55 66",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "QC: information_lost",
+        "QC: information_invented",
+        "Completeness REVIEW (100/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "russian",
+      "completeness_score": 100,
+      "completeness_status": "REVIEW",
+      "confidence": 45,
+      "can_approve": false
+    },
+    "after": "Компания:\nСервис доставки «FoodGo»\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\n18+\nСмартфон обязателен\n\nУсловия:\nГибкий график\n\nОплата:\nЗ/П от 200000\n\nАдрес:\nул. Толе би 100\n\nКонтакты:\n+7 703 444 55 66",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 45,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Должность не указана точно.",
+        "Poster generation blocked — manager approval required.",
+        "Нақты лауазым көрсетілмеген."
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "title": "Завод — оператор станка",
+    "raw_text": "Завод «КазМеталл»\nСтанок операторы\n\nТехникалық білім\n3 жыл тәжірибе\n\nЖалақы 350000 тг\nКорпоративтік тамақ\nГрафик 2/2\n\nпромзона, ул. Индустриальная 1\nориентир: проходная №2\n87023334455\nInstagram: kazmetall_official",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "КазМеталл",
+      "vacancy_title": "Станок операторы",
+      "positions": [],
+      "salary": "350000 тг",
+      "address": "ул. Индустриальная 1",
+      "address_notes": "промзона, ориентир: проходная №2",
+      "phones": [
+        "87023334455"
+      ],
+      "phones_display": [
+        "+7 702 333 44 55"
+      ],
+      "instagram": "kazmetall_official",
+      "requirements": [
+        "Техникалық білім",
+        "3 жыл тәжірибе"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Корпоративтік тамақ",
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "КазМеталл",
+      "vacancy_type": "single",
+      "vacancy_title": "Станок операторы",
+      "positions": [],
+      "salary": "350000 тг",
+      "requirements": [
+        "Техникалық білім",
+        "3 жыл тәжірибе"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Корпоративтік тамақ",
+        "График 2/2"
+      ],
+      "phones": [
+        "87023334455"
+      ],
+      "phones_display": [],
+      "address": "ул. Индустриальная 1",
+      "address_notes": "промзона, ориентир: проходная №2",
+      "instagram": "kazmetall_official",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nКазМеталл\n\nЛауазым:\nСтанок операторы\n\nТалаптар:\nТехникалық білім\n3 жыл тәжірибе\n\nШарттары:\nКорпоративтік тамақ\nГрафик 2/2\n\nЖалақы:\n350000 тг\n\nМекенжай:\nул. Индустриальная 1\nпромзона, ориентир: проходная №2\n\nБайланыс:\n+7 702 333 44 55\n\nInstagram:\nkazmetall_official",
+      "telegram_text": "🏢 Компания:\nКазМеталл\n\n📌 Лауазым:\nСтанок операторы\n\n📋 Талаптар:\nТехникалық білім\n3 жыл тәжірибе\n\n⏰ Шарттары:\nКорпоративтік тамақ\nГрафик 2/2\n\n📍 Мекенжай:\nул. Индустриальная 1\nпромзона, ориентир: проходная №2\n\n📞 Байланыс:\n+7 702 333 44 55",
+      "whatsapp_text": "🏢 *Компания:*\nКазМеталл\n\n📌 *Лауазым:*\nСтанок операторы\n\n📋 *Талаптар:*\nТехникалық білім\n3 жыл тәжірибе\n\n⏰ *Шарттары:*\nКорпоративтік тамақ\nГрафик 2/2\n\n📍 *Мекенжай:*\nул. Индустриальная 1\nпромзона, ориентир: проходная №2\n\n📞 *Байланыс:*\n+7 702 333 44 55",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "kazakh",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nКазМеталл\n\nЛауазым:\nСтанок операторы\n\nТалаптар:\nТехникалық білім\n3 жыл тәжірибе\n\nШарттары:\nКорпоративтік тамақ\nГрафик 2/2\n\nЖалақы:\n350000 тг\n\nМекенжай:\nул. Индустриальная 1\nпромзона, ориентир: проходная №2\n\nБайланыс:\n+7 702 333 44 55\n\nInstagram:\nkazmetall_official",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "21",
+    "title": "Оптика — generic қызметкер",
+    "raw_text": "Оптикаға ҚЫЗ қызметкер қажет ❤️🔥\n\nБіз сізді күтеміз!\n\n87082196801",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Оптика",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87082196801"
+      ],
+      "phones_display": [
+        "+7 708 219 68 01"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": [
+        "Нақты лауазым көрсетілмеген."
+      ]
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Оптика",
+      "vacancy_type": "single",
+      "vacancy_title": "Қыз қызметкер",
+      "positions": [],
+      "salary": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87082196801"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": [
+        "Біз сізді күтеміз!"
+      ]
+    },
+    "generated": {
+      "poster_text": "Компания:\nОптика\n\nДолжность:\nUNKNOWN_POSITION\n\nКонтакты:\n+7 708 219 68 01",
+      "telegram_text": "🏢 Компания:\nОптика\n\n📌 Должность:\nUNKNOWN_POSITION\n\n📞 Контакты:\n+7 708 219 68 01",
+      "whatsapp_text": "🏢 *Компания:*\nОптика\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n📞 *Контакты:*\n+7 708 219 68 01",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (40/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Address, Salary, Work Schedule",
+        "QC: information_lost",
+        "QC: information_invented",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 40,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 45,
+      "can_approve": false
+    },
+    "after": "Компания:\nОптика\n\nЛауазым:\nUNKNOWN_POSITION\n\nБайланыс:\n+7 708 219 68 01",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Emojis or decorative symbols detected — remove before publish",
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 40,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Address",
+        "Salary",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 0,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 45,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Emojis or decorative symbols detected — remove before publish",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "title": "Generic — қызметкер керек",
+    "raw_text": "Компанияға қызметкер керек\n\nЖалақы келісімді\n87071234567",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Компания",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "Жалақы келісімді",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87071234567"
+      ],
+      "phones_display": [
+        "+7 707 123 45 67"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Компания",
+      "vacancy_type": "multi",
+      "vacancy_title": "",
+      "positions": [],
+      "salary": "Жалақы келісімді",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87071234567"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": [
+        "Компанияға қызметкер керек"
+      ]
+    },
+    "generated": {
+      "poster_text": "Компания:\nКомпания\n\nЛауазым:\nUNKNOWN_POSITION\n\nЖалақы:\nЖалақы келісімді\n\nБайланыс:\n+7 707 123 45 67",
+      "telegram_text": "🏢 Компания:\nКомпания\n\n📌 Лауазым:\nUNKNOWN_POSITION\n\n📞 Байланыс:\n+7 707 123 45 67",
+      "whatsapp_text": "🏢 *Компания:*\nКомпания\n\n📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📞 *Байланыс:*\n+7 707 123 45 67",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (50/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Address, Work Schedule",
+        "QC: information_lost",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 50,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nКомпания\n\nЛауазым:\nUNKNOWN_POSITION\n\nЖалақы:\nЖалақы келісімді\n\nБайланыс:\n+7 707 123 45 67",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 50,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "title": "Staff needed EN",
+    "raw_text": "Coffee shop Need staff needed urgently\n\nSchedule 2/2\nCall 87051112233",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Coffee shop",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87051112233"
+      ],
+      "phones_display": [
+        "+7 705 111 22 33"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": [
+        "Need staff needed urgently"
+      ]
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Coffee shop",
+      "vacancy_type": "multi",
+      "vacancy_title": "Staff",
+      "positions": [],
+      "salary": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "Schedule 2/2"
+      ],
+      "phones": [
+        "87051112233"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": [
+        "Need staff needed urgently"
+      ]
+    },
+    "generated": {
+      "poster_text": "Компания:\nCoffee shop\n\nДолжность:\nUNKNOWN_POSITION\n\nУсловия:\nГрафик 2/2\n\nКонтакты:\n+7 705 111 22 33",
+      "telegram_text": "🏢 Компания:\nCoffee shop\n\n📌 Должность:\nUNKNOWN_POSITION\n\n⏰ Условия:\nГрафик 2/2\n\n📞 Контакты:\n+7 705 111 22 33",
+      "whatsapp_text": "🏢 *Компания:*\nCoffee shop\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n⏰ *Условия:*\nГрафик 2/2\n\n📞 *Контакты:*\n+7 705 111 22 33",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (50/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Address, Salary",
+        "QC: information_lost",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "russian",
+      "completeness_score": 50,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nCoffee shop\n\nДолжность:\nUNKNOWN_POSITION\n\nУсловия:\nГрафик 2/2\n\nКонтакты:\n+7 705 111 22 33",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 50,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Address",
+        "Salary"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 0,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Должность не указана точно.",
+        "Poster generation blocked — manager approval required.",
+        "Нақты лауазым көрсетілмеген.",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "title": "Phone spaced format",
+    "raw_text": "Кассир керек\n\nЖалақы 200000\nБайланыс: 8708 2196801",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "",
+      "vacancy_title": "Кассир",
+      "positions": [],
+      "salary": "200000",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87082196801"
+      ],
+      "phones_display": [
+        "+7 708 219 68 01"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "",
+      "vacancy_type": "single",
+      "vacancy_title": "Кассир",
+      "positions": [],
+      "salary": "200000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "8708 2196801"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Должность:\nКассир\n\nОплата:\n200000\n\nКонтакты:\n+7 708 219 68 01",
+      "telegram_text": "📌 Должность:\nКассир\n\n📞 Контакты:\n+7 708 219 68 01",
+      "whatsapp_text": "📌 *Должность:*\nКассир\n\n📞 *Контакты:*\n+7 708 219 68 01",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (60/100)"
+      ],
+      "review_reasons": [
+        "Missing fields: Company, Address, Work Schedule",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 60,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 90,
+      "can_approve": false
+    },
+    "after": "Лауазым:\nКассир\n\nЖалақы:\n200000\n\nБайланыс:\n+7 708 219 68 01",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 60,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Company",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 0,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 90,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [
+        "company"
+      ],
+      "warnings": [
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "title": "Phone +7 format",
+    "raw_text": "Требуется повар\n\nРесторан La Moka\nЗ/П 300000\n+7 776 383 71 71",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Ресторан La Moka",
+      "vacancy_title": "Повар",
+      "positions": [],
+      "salary": "300000",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87763837171"
+      ],
+      "phones_display": [
+        "+7 776 383 71 71"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Ресторан La Moka",
+      "vacancy_type": "single",
+      "vacancy_title": "Повар",
+      "positions": [],
+      "salary": "300000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "+7 776 383 71 71"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nРесторан La Moka\n\nДолжность:\nПовар\n\nОплата:\n300000\n\nКонтакты:\n+7 776 383 71 71",
+      "telegram_text": "🏢 Компания:\nРесторан La Moka\n\n📌 Должность:\nПовар\n\n📞 Контакты:\n+7 776 383 71 71",
+      "whatsapp_text": "🏢 *Компания:*\nРесторан La Moka\n\n📌 *Должность:*\nПовар\n\n📞 *Контакты:*\n+7 776 383 71 71",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Missing fields: Address, Work Schedule",
+        "Completeness REVIEW (75/100)",
+        "review_required=true"
+      ],
+      "dominant_language": "russian",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 95,
+      "can_approve": true
+    },
+    "after": "Компания:\nРесторан La Moka\n\nДолжность:\nПовар\n\nОплата:\n300000\n\nКонтакты:\n+7 776 383 71 71",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 95,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "26",
+    "title": "Gender restriction",
+    "raw_text": "Салон красоты\nТек қыздар керек\n\nЖалақы 250000\n87076665544",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Салон красоты",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "250000",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87076665544"
+      ],
+      "phones_display": [
+        "+7 707 666 55 44"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Салон красоты",
+      "vacancy_type": "multi",
+      "vacancy_title": "",
+      "positions": [
+        "Қыздар"
+      ],
+      "salary": "250000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87076665544"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nСалон красоты\n\nДолжность:\nUNKNOWN_POSITION\n\nОплата:\n250000\n\nКонтакты:\n+7 707 666 55 44",
+      "telegram_text": "🏢 Компания:\nСалон красоты\n\n📌 Должность:\nUNKNOWN_POSITION\n\n📞 Контакты:\n+7 707 666 55 44",
+      "whatsapp_text": "🏢 *Компания:*\nСалон красоты\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n📞 *Контакты:*\n+7 707 666 55 44",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (50/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Address, Work Schedule",
+        "DISCRIMINATION flagged",
+        "QC: information_lost",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 50,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nСалон красоты\n\nЛауазым:\nUNKNOWN_POSITION\n\nЖалақы:\n250000\n\nБайланыс:\n+7 707 666 55 44",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": true,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Discrimination: gender restriction"
+      ]
+    },
+    "completeness": {
+      "score": 50,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Discrimination: gender restriction",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "title": "Age restriction RU",
+    "raw_text": "Магазин одежды\nТолько девушки 18-25 лет\n\n300000 тг\n87045556677",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Магазин одежды",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "300000 тг",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87045556677"
+      ],
+      "phones_display": [
+        "+7 704 555 66 77"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Только девушки 18-25 лет"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Магазин одежды",
+      "vacancy_type": "single",
+      "vacancy_title": "",
+      "positions": [],
+      "salary": "300000 тг",
+      "requirements": [
+        "Только девушки 18-25 лет"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87045556677"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nМагазин одежды\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\nТолько девушки 18-25 лет\n\nОплата:\n300000 тг\n\nКонтакты:\n+7 704 555 66 77",
+      "telegram_text": "🏢 Компания:\nМагазин одежды\n\n📌 Должность:\nUNKNOWN_POSITION\n\n📋 Требования:\nТолько девушки 18-25 лет\n\n📞 Контакты:\n+7 704 555 66 77",
+      "whatsapp_text": "🏢 *Компания:*\nМагазин одежды\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n📋 *Требования:*\nТолько девушки 18-25 лет\n\n📞 *Контакты:*\n+7 704 555 66 77",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (50/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Address, Work Schedule",
+        "DISCRIMINATION flagged",
+        "QC: information_lost",
+        "QC: information_invented",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "russian",
+      "completeness_score": 50,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 45,
+      "can_approve": false
+    },
+    "after": "Компания:\nМагазин одежды\n\nДолжность:\nUNKNOWN_POSITION\n\nТребования:\nТолько девушки 18-25 лет\n\nОплата:\n300000 тг\n\nКонтакты:\n+7 704 555 66 77",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": true,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Discrimination: gender restriction",
+        "Discrimination: age restriction"
+      ]
+    },
+    "completeness": {
+      "score": 50,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 45,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [],
+      "warnings": [
+        "Должность не указана точно.",
+        "Poster generation blocked — manager approval required.",
+        "Нақты лауазым көрсетілмеген.",
+        "Discrimination: gender restriction",
+        "Discrimination: age restriction",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "title": "Missing phone",
+    "raw_text": "Бариста қажет\n\nКофейня Astana\nЖалақы 180000\nГрафик 2/2\nмкр. Коктем",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Кофейня Astana",
+      "vacancy_title": "Бариста",
+      "positions": [],
+      "salary": "180000",
+      "address": "мкр. Коктем",
+      "address_notes": "",
+      "phones": [],
+      "phones_display": [],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Кофейня Astana",
+      "vacancy_type": "single",
+      "vacancy_title": "Бариста",
+      "positions": [],
+      "salary": "180000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "phones": [],
+      "phones_display": [],
+      "address": "мкр. Коктем",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nКофейня Astana\n\nДолжность:\nБариста\n\nУсловия:\nГрафик 2/2\n\nОплата:\n180000\n\nАдрес:\nмкр. Коктем",
+      "telegram_text": "🏢 Компания:\nКофейня Astana\n\n📌 Должность:\nБариста\n\n⏰ Условия:\nГрафик 2/2\n\n📍 Адрес:\nмкр. Коктем",
+      "whatsapp_text": "🏢 *Компания:*\nКофейня Astana\n\n📌 *Должность:*\nБариста\n\n⏰ *Условия:*\nГрафик 2/2\n\n📍 *Адрес:*\nмкр. Коктем",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Missing fields: Phone",
+        "Completeness REVIEW (75/100)",
+        "review_required=true"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 95,
+      "can_approve": true
+    },
+    "after": "Компания:\nКофейня Astana\n\nЛауазым:\nБариста\n\nШарттары:\nГрафик 2/2\n\nЖалақы:\n180000\n\nМекенжай:\nмкр. Коктем",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Phone"
+      ],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 0,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 95,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "29",
+    "title": "Missing company",
+    "raw_text": "Курьер керек\n\n18+\nЖеке көлігі\n6000 тг күніне\n87071234567",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "",
+      "vacancy_title": "Курьер",
+      "positions": [],
+      "salary": "6000 тг күніне",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87071234567"
+      ],
+      "phones_display": [
+        "+7 707 123 45 67"
+      ],
+      "instagram": "",
+      "requirements": [
+        "18+",
+        "Жеке көлігі"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "",
+      "vacancy_type": "single",
+      "vacancy_title": "Курьер",
+      "positions": [],
+      "salary": "6000 тг күніне",
+      "requirements": [
+        "18+",
+        "Жеке көлігі"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87071234567"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Лауазым:\nКурьер\n\nТалаптар:\n18+\nЖеке көлігі\n\nЖалақы:\n6000 тг күніне\n\nБайланыс:\n+7 707 123 45 67",
+      "telegram_text": "📌 Лауазым:\nКурьер\n\n📋 Талаптар:\n18+\nЖеке көлігі\n\n📞 Байланыс:\n+7 707 123 45 67",
+      "whatsapp_text": "📌 *Лауазым:*\nКурьер\n\n📋 *Талаптар:*\n18+\nЖеке көлігі\n\n📞 *Байланыс:*\n+7 707 123 45 67",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (60/100)"
+      ],
+      "review_reasons": [
+        "Missing fields: Company, Address, Work Schedule",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 60,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 85,
+      "can_approve": false
+    },
+    "after": "Лауазым:\nКурьер\n\nТалаптар:\n18+\nЖеке көлігі\n\nЖалақы:\n6000 тг күніне\n\nБайланыс:\n+7 707 123 45 67",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 60,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Company",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 0,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [
+        "company"
+      ],
+      "warnings": [
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "title": "Pure Russian",
+    "raw_text": "Требуется администратор\n\nКомпания «Business Center»\nОпыт от 1 года\nГрафик 5/2\nЗарплата 250000\nул. Сейфуллина 20\n8 707 555 44 33",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Business Center",
+      "vacancy_title": "Администратор",
+      "positions": [],
+      "salary": "250000",
+      "address": "ул. Сейфуллина 20",
+      "address_notes": "",
+      "phones": [
+        "87075554433"
+      ],
+      "phones_display": [
+        "+7 707 555 44 33"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Опыт от 1 года"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 5/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Business Center",
+      "vacancy_type": "single",
+      "vacancy_title": "Администратор",
+      "positions": [],
+      "salary": "250000",
+      "requirements": [
+        "Опыт от 1 года"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "График 5/2"
+      ],
+      "phones": [
+        "8 707 555 44 33"
+      ],
+      "phones_display": [],
+      "address": "ул. Сейфуллина 20",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nBusiness Center\n\nДолжность:\nАдминистратор\n\nТребования:\nОпыт от 1 года\n\nУсловия:\nГрафик 5/2\n\nОплата:\n250000\n\nАдрес:\nул. Сейфуллина 20\n\nКонтакты:\n+7 707 555 44 33",
+      "telegram_text": "🏢 Компания:\nBusiness Center\n\n📌 Должность:\nАдминистратор\n\n📋 Требования:\nОпыт от 1 года\n\n⏰ Условия:\nГрафик 5/2\n\n📍 Адрес:\nул. Сейфуллина 20\n\n📞 Контакты:\n+7 707 555 44 33",
+      "whatsapp_text": "🏢 *Компания:*\nBusiness Center\n\n📌 *Должность:*\nАдминистратор\n\n📋 *Требования:*\nОпыт от 1 года\n\n⏰ *Условия:*\nГрафик 5/2\n\n📍 *Адрес:*\nул. Сейфуллина 20\n\n📞 *Контакты:*\n+7 707 555 44 33",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "russian",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 95,
+      "can_approve": true
+    },
+    "after": "Компания:\nBusiness Center\n\nДолжность:\nАдминистратор\n\nТребования:\nОпыт от 1 года\n\nУсловия:\nГрафик 5/2\n\nОплата:\n250000\n\nАдрес:\nул. Сейфуллина 20\n\nКонтакты:\n+7 707 555 44 33",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 95,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "31",
+    "title": "Pure Kazakh",
+    "raw_text": "Компанияға кассир қажет\n\n«Астана маркет»\n18 жастан жоғары\nЖалақы 220000 тг\nКесте 2/2\nк. Астана, көше Тәуелсіздік 10\n87012223344",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "Астана маркет",
+      "vacancy_title": "Кассир",
+      "positions": [],
+      "salary": "220000 тг",
+      "address": "к. Астана, көше Тәуелсіздік 10",
+      "address_notes": "",
+      "phones": [
+        "87012223344"
+      ],
+      "phones_display": [
+        "+7 701 222 33 44"
+      ],
+      "instagram": "",
+      "requirements": [
+        "18 жастан жоғары"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Кесте 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Астана маркет",
+      "vacancy_type": "single",
+      "vacancy_title": "Кассир",
+      "positions": [],
+      "salary": "220000 тг",
+      "requirements": [
+        "18 жастан жоғары"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Кесте 2/2"
+      ],
+      "phones": [
+        "87012223344"
+      ],
+      "phones_display": [],
+      "address": "к. Астана, көше Тәуелсіздік 10",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nАстана маркет\n\nЛауазым:\nКассир\n\nТалаптар:\n18 жастан жоғары\n\nШарттары:\nКесте 2/2\n\nЖалақы:\n220000 тг\n\nМекенжай:\nк. Астана, көше Тәуелсіздік 10\n\nБайланыс:\n+7 701 222 33 44",
+      "telegram_text": "🏢 Компания:\nАстана маркет\n\n📌 Лауазым:\nКассир\n\n📋 Талаптар:\n18 жастан жоғары\n\n⏰ Шарттары:\nКесте 2/2\n\n📍 Мекенжай:\nк. Астана, көше Тәуелсіздік 10\n\n📞 Байланыс:\n+7 701 222 33 44",
+      "whatsapp_text": "🏢 *Компания:*\nАстана маркет\n\n📌 *Лауазым:*\nКассир\n\n📋 *Талаптар:*\n18 жастан жоғары\n\n⏰ *Шарттары:*\nКесте 2/2\n\n📍 *Мекенжай:*\nк. Астана, көше Тәуелсіздік 10\n\n📞 *Байланыс:*\n+7 701 222 33 44",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "kazakh",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nАстана маркет\n\nЛауазым:\nКассир\n\nТалаптар:\n18 жастан жоғары\n\nШарттары:\nКесте 2/2\n\nЖалақы:\n220000 тг\n\nМекенжай:\nк. Астана, көше Тәуелсіздік 10\n\nБайланыс:\n+7 701 222 33 44",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  },
+  {
+    "id": "32",
+    "title": "Multi positions",
+    "raw_text": "ТОО «Service KZ»\nБос орындар:\n\nКассир\nОфициант\nКурьер\n\nЖалақы келісімді\n87099998877",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "ТОО «Service KZ»",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [
+        "Кассир",
+        "Официант",
+        "Курьер"
+      ],
+      "salary": "Жалақы келісімді",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87099998877"
+      ],
+      "phones_display": [
+        "+7 709 999 88 77"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "ТОО «Service KZ»",
+      "vacancy_type": "multi",
+      "vacancy_title": "",
+      "positions": [
+        "Кассир",
+        "Официант",
+        "Курьер"
+      ],
+      "salary": "Жалақы келісімді",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87099998877"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nТОО «Service KZ»\n\nЛауазым:\nUNKNOWN_POSITION\n\nЖалақы:\nЖалақы келісімді\n\nБайланыс:\n+7 709 999 88 77",
+      "telegram_text": "🏢 Компания:\nТОО «Service KZ»\n\n📌 Лауазым:\nКассир\nОфициант\nКурьер\n\n📞 Байланыс:\n+7 709 999 88 77",
+      "whatsapp_text": "🏢 *Компания:*\nТОО «Service KZ»\n\n📌 *Лауазым:*\nКассир\nОфициант\nКурьер\n\n📞 *Байланыс:*\n+7 709 999 88 77",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Address, Work Schedule",
+        "QC: information_lost",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nТОО «Service KZ»\n\nЛауазым:\nUNKNOWN_POSITION\n\nЖалақы:\nЖалақы келісімді\n\nБайланыс:\n+7 709 999 88 77",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "title": "Partial phone only",
+    "raw_text": "Сатушы керек\n\nЖалақы 200000\nЗвоните 2196801",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "200000",
+      "address": "",
+      "address_notes": "",
+      "phones": [],
+      "phones_display": [],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "",
+      "vacancy_type": "single",
+      "vacancy_title": "Сатушы",
+      "positions": [],
+      "salary": "200000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "2196801"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Должность:\nUNKNOWN_POSITION\n\nОплата:\n200000",
+      "telegram_text": "📌 Должность:\nUNKNOWN_POSITION",
+      "whatsapp_text": "📌 *Должность:*\nUNKNOWN_POSITION",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (10/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Company, Position, Phone, Address, Work Schedule",
+        "CRITICAL_DATA_MISSING",
+        "QC: information_lost",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 10,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Лауазым:\nUNKNOWN_POSITION\n\nЖалақы:\n200000",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": true,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Parser extracted phones but structured data has none"
+      ]
+    },
+    "completeness": {
+      "score": 10,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Company",
+        "Position",
+        "Phone",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 0,
+        "Position": 0,
+        "Phone": 0,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "phones"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Parser extracted phones but structured data has none",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "title": "Instagram + WhatsApp",
+    "raw_text": "Бариста қажет\n\nCoffee Lab\nЖалақы 200000\nГрафик 2/2\nWhatsApp: 87081112233\nInstagram: coffee.lab.almaty",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Coffee Lab",
+      "vacancy_title": "Бариста",
+      "positions": [],
+      "salary": "200000",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87081112233"
+      ],
+      "phones_display": [
+        "+7 708 111 22 33"
+      ],
+      "instagram": "coffee.lab.almaty",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Coffee Lab",
+      "vacancy_type": "single",
+      "vacancy_title": "Бариста",
+      "positions": [],
+      "salary": "200000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "phones": [
+        "87081112233"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "coffee.lab.almaty",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nCoffee Lab\n\nДолжность:\nБариста\n\nУсловия:\nГрафик 2/2\n\nОплата:\n200000\n\nКонтакты:\n+7 708 111 22 33\n\nInstagram:\ncoffee.lab.almaty",
+      "telegram_text": "🏢 Компания:\nCoffee Lab\n\n📌 Должность:\nБариста\n\n⏰ Условия:\nГрафик 2/2\n\n📞 Контакты:\n+7 708 111 22 33",
+      "whatsapp_text": "🏢 *Компания:*\nCoffee Lab\n\n📌 *Должность:*\nБариста\n\n⏰ *Условия:*\nГрафик 2/2\n\n📞 *Контакты:*\n+7 708 111 22 33",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Missing fields: Address",
+        "Completeness REVIEW (85/100)",
+        "review_required=true"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 85,
+      "completeness_status": "REVIEW",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\nCoffee Lab\n\nЛауазым:\nБариста\n\nШарттары:\nГрафик 2/2\n\nЖалақы:\n200000\n\nБайланыс:\n+7 708 111 22 33\n\nInstagram:\ncoffee.lab.almaty",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 85,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Address"
+      ],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [
+        "address"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "35",
+    "title": "First person employer voice",
+    "raw_text": "Біз іздейміз сатушы!\n\nБіздің ұжымға керек\nЖалақы 250000\n87073334455",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "",
+      "vacancy_title": "Сатушы",
+      "positions": [],
+      "salary": "250000",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87073334455"
+      ],
+      "phones_display": [
+        "+7 707 333 44 55"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "",
+      "vacancy_type": "single",
+      "vacancy_title": "Сатушы",
+      "positions": [],
+      "salary": "250000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87073334455"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Должность:\nСатушы\n\nОплата:\n250000\n\nКонтакты:\n+7 707 333 44 55",
+      "telegram_text": "📌 Должность:\nСатушы\n\n📞 Контакты:\n+7 707 333 44 55",
+      "whatsapp_text": "📌 *Должность:*\nСатушы\n\n📞 *Контакты:*\n+7 707 333 44 55",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (60/100)"
+      ],
+      "review_reasons": [
+        "Missing fields: Company, Address, Work Schedule",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 60,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 85,
+      "can_approve": false
+    },
+    "after": "Лауазым:\nСатушы\n\nЖалақы:\n250000\n\nБайланыс:\n+7 707 333 44 55",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 60,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Company",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 0,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [
+        "company"
+      ],
+      "warnings": [
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "title": "Er qyzmetker generic",
+    "raw_text": "Қоймаға ер қызметкер керек\n\nЖүк көтеру\n87067778899",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87067778899"
+      ],
+      "phones_display": [
+        "+7 706 777 88 99"
+      ],
+      "instagram": "",
+      "requirements": [
+        "Жүк көтеру"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "kazakh",
+      "company": "",
+      "vacancy_type": "single",
+      "vacancy_title": "Ер қызметкер",
+      "positions": [],
+      "salary": "",
+      "requirements": [
+        "Жүк көтеру"
+      ],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87067778899"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Лауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nЖүк көтеру\n\nБайланыс:\n+7 706 777 88 99",
+      "telegram_text": "📌 Лауазым:\nUNKNOWN_POSITION\n\n📋 Талаптар:\nЖүк көтеру\n\n📞 Байланыс:\n+7 706 777 88 99",
+      "whatsapp_text": "📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📋 *Талаптар:*\nЖүк көтеру\n\n📞 *Байланыс:*\n+7 706 777 88 99",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (25/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Company, Position, Address, Salary, Work Schedule",
+        "QC: information_lost",
+        "QC: information_invented",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 25,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Лауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nЖүк көтеру\n\nБайланыс:\n+7 706 777 88 99",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 25,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Company",
+        "Position",
+        "Address",
+        "Salary",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 0,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 0,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "title": "Жұмысшы керек",
+    "raw_text": "Заводқа жұмысшы керек\n\nКорпоративтік тамақ\n350000\n87023334455",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Завод",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "350000",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87023334455"
+      ],
+      "phones_display": [
+        "+7 702 333 44 55"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "notes": "",
+      "unsorted_review": [
+        "Корпоративтік тамақ"
+      ]
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Завод",
+      "vacancy_type": "single",
+      "vacancy_title": "Жұмысшы",
+      "positions": [],
+      "salary": "350000",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [],
+      "phones": [
+        "87023334455"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": [
+        "Корпоративтік тамақ"
+      ]
+    },
+    "generated": {
+      "poster_text": "Компания:\nЗавод\n\nДолжность:\nUNKNOWN_POSITION\n\nОплата:\n350000\n\nКонтакты:\n+7 702 333 44 55",
+      "telegram_text": "🏢 Компания:\nЗавод\n\n📌 Должность:\nUNKNOWN_POSITION\n\n📞 Контакты:\n+7 702 333 44 55",
+      "whatsapp_text": "🏢 *Компания:*\nЗавод\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n📞 *Контакты:*\n+7 702 333 44 55",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (50/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Address, Work Schedule",
+        "QC: information_lost",
+        "QC: information_invented",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 50,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nЗавод\n\nЛауазым:\nUNKNOWN_POSITION\n\nЖалақы:\n350000\n\nБайланыс:\n+7 702 333 44 55",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 50,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Address",
+        "Work Schedule"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 10,
+        "Work Schedule": 0
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "title": "Персонал керек",
+    "raw_text": "Ресторанға персонал керек\n\nГрафик 2/2\n87076665544",
+    "verdict": "FAIL",
+    "error": null,
+    "structured": {
+      "company": "Ресторан",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "",
+      "address": "",
+      "address_notes": "",
+      "phones": [
+        "87076665544"
+      ],
+      "phones_display": [
+        "+7 707 666 55 44"
+      ],
+      "instagram": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "russian",
+      "company": "Ресторан",
+      "vacancy_type": "multi",
+      "vacancy_title": "Персонал",
+      "positions": [],
+      "salary": "",
+      "requirements": [],
+      "responsibilities": [],
+      "conditions": [
+        "График 2/2"
+      ],
+      "phones": [
+        "87076665544"
+      ],
+      "phones_display": [],
+      "address": "",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nРесторан\n\nДолжность:\nUNKNOWN_POSITION\n\nУсловия:\nГрафик 2/2\n\nКонтакты:\n+7 707 666 55 44",
+      "telegram_text": "🏢 Компания:\nРесторан\n\n📌 Должность:\nUNKNOWN_POSITION\n\n⏰ Условия:\nГрафик 2/2\n\n📞 Контакты:\n+7 707 666 55 44",
+      "whatsapp_text": "🏢 *Компания:*\nРесторан\n\n📌 *Должность:*\nUNKNOWN_POSITION\n\n⏰ *Условия:*\nГрафик 2/2\n\n📞 *Контакты:*\n+7 707 666 55 44",
+      "language": "russian"
+    },
+    "analysis": {
+      "verdict": "FAIL",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [
+        "Completeness INCOMPLETE (50/100)"
+      ],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position, Address, Salary",
+        "QC: information_lost",
+        "QC: information_invented",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 50,
+      "completeness_status": "INCOMPLETE",
+      "confidence": 50,
+      "can_approve": false
+    },
+    "after": "Компания:\nРесторан\n\nЛауазым:\nUNKNOWN_POSITION\n\nШарттары:\nГрафик 2/2\n\nБайланыс:\n+7 707 666 55 44",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 50,
+      "max_score": 100,
+      "status": "INCOMPLETE",
+      "indicator": "🔴",
+      "missing": [
+        "Position",
+        "Address",
+        "Salary"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 0,
+        "Salary": 0,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 50,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Completeness below 70 — poster generation blocked"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "title": "Long messy mixed",
+    "raw_text": "🔥🔥🔥 URGENT!!!\n\nОптика Lux\nҚызметкерлер керек срочно\n\n- опыт не обязателен\n- график гибкий\n- жалақы жақсы 💰\n\n📍 Dostyk 100\n📞 8708-777-6655\n📷 lux.optics",
+    "verdict": "REVIEW",
+    "error": null,
+    "structured": {
+      "company": "Оптика Lux",
+      "vacancy_title": "UNKNOWN_POSITION",
+      "positions": [],
+      "salary": "жалақы жақсы",
+      "address": "Dostyk 100",
+      "address_notes": "",
+      "phones": [
+        "87087776655"
+      ],
+      "phones_display": [
+        "+7 708 777 66 55"
+      ],
+      "instagram": "lux.optics",
+      "requirements": [
+        "тәжірибе қажет емес"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "икемді график"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "Оптика Lux",
+      "vacancy_type": "multi",
+      "vacancy_title": "Қызметкерлер керек",
+      "positions": [],
+      "salary": "жалақы жақсы 💰",
+      "requirements": [
+        "опыт не обязателен"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "график гибкий"
+      ],
+      "phones": [
+        "8708-777-6655"
+      ],
+      "phones_display": [],
+      "address": "Dostyk 100",
+      "address_notes": "",
+      "instagram": "lux.optics",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\nОптика Lux\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nтәжірибе қажет емес\n\nШарттары:\nикемді график\n\nЖалақы:\nжалақы жақсы\n\nМекенжай:\nDostyk 100\n\nБайланыс:\n+7 708 777 66 55\n\nInstagram:\nlux.optics",
+      "telegram_text": "🏢 Компания:\nОптика Lux\n\n📌 Лауазым:\nUNKNOWN_POSITION\n\n📋 Талаптар:\nтәжірибе қажет емес\n\n⏰ Шарттары:\nикемді график\n\n📍 Мекенжай:\nDostyk 100\n\n📞 Байланыс:\n+7 708 777 66 55",
+      "whatsapp_text": "🏢 *Компания:*\nОптика Lux\n\n📌 *Лауазым:*\nUNKNOWN_POSITION\n\n📋 *Талаптар:*\nтәжірибе қажет емес\n\n⏰ *Шарттары:*\nикемді график\n\n📍 *Мекенжай:*\nDostyk 100\n\n📞 *Байланыс:*\n+7 708 777 66 55",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "REVIEW",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": null,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [
+        "Position UNKNOWN_POSITION: 'UNKNOWN_POSITION'",
+        "Validation: unknown_position flag",
+        "Missing fields: Position",
+        "QC: information_lost",
+        "Completeness REVIEW (75/100)",
+        "review_required=true",
+        "can_approve=false"
+      ],
+      "dominant_language": "kazakh",
+      "completeness_score": 75,
+      "completeness_status": "REVIEW",
+      "confidence": 55,
+      "can_approve": false
+    },
+    "after": "Компания:\nОптика Lux\n\nЛауазым:\nUNKNOWN_POSITION\n\nТалаптар:\nтәжірибе қажет емес\n\nШарттары:\nикемді график\n\nЖалақы:\nжалақы жақсы\n\nМекенжай:\nDostyk 100\n\nБайланыс:\n+7 708 777 66 55\n\nInstagram:\nlux.optics",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": true,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": true,
+      "can_approve": false,
+      "errors": [
+        "Нақты лауазым көрсетілмеген."
+      ],
+      "warnings": [
+        "Emojis or decorative symbols detected — remove before publish",
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ]
+    },
+    "completeness": {
+      "score": 75,
+      "max_score": 100,
+      "status": "REVIEW",
+      "indicator": "🟡",
+      "missing": [
+        "Position"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required."
+      ],
+      "field_scores": {
+        "Company": 15,
+        "Position": 0,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": false
+    },
+    "quality": {
+      "confidence": 55,
+      "language_preserved": true,
+      "information_lost": true,
+      "missing_fields": [
+        "vacancy_title"
+      ],
+      "warnings": [
+        "Нақты лауазым көрсетілмеген.",
+        "Poster generation blocked — manager approval required.",
+        "Emojis or decorative symbols detected — remove before publish"
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "title": "Clear complete KK",
+    "raw_text": "«Алма» сауда орталығы\nКомпанияға сатушы қажет\n\n18 жастан жоғары\nСатудан тәжірибе\n\nЖалақы 280000 тг\nКесте 2/2\n\nк. Алматы, пр. Абая 52\n87051112233",
+    "verdict": "PASS",
+    "error": null,
+    "structured": {
+      "company": "«Алма» сауда орталығы",
+      "vacancy_title": "Сатушы",
+      "positions": [],
+      "salary": "280000 тг",
+      "address": "к. Алматы, пр. Абая 52",
+      "address_notes": "",
+      "phones": [
+        "87051112233"
+      ],
+      "phones_display": [
+        "+7 705 111 22 33"
+      ],
+      "instagram": "",
+      "requirements": [
+        "18 жастан жоғары",
+        "Сатудан тәжірибе"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Кесте 2/2"
+      ],
+      "notes": "",
+      "unsorted_review": []
+    },
+    "parsed": {
+      "language": "mixed",
+      "company": "«Алма» сауда орталығы",
+      "vacancy_type": "single",
+      "vacancy_title": "Сатушы",
+      "positions": [],
+      "salary": "280000 тг",
+      "requirements": [
+        "18 жастан жоғары",
+        "Сатудан тәжірибе"
+      ],
+      "responsibilities": [],
+      "conditions": [
+        "Кесте 2/2"
+      ],
+      "phones": [
+        "87051112233"
+      ],
+      "phones_display": [],
+      "address": "к. Алматы, пр. Абая 52",
+      "address_notes": "",
+      "instagram": "",
+      "notes": "",
+      "unsorted_review": []
+    },
+    "generated": {
+      "poster_text": "Компания:\n«Алма» сауда орталығы\n\nЛауазым:\nСатушы\n\nТалаптар:\n18 жастан жоғары\nСатудан тәжірибе\n\nШарттары:\nКесте 2/2\n\nЖалақы:\n280000 тг\n\nМекенжай:\nк. Алматы, пр. Абая 52\n\nБайланыс:\n+7 705 111 22 33",
+      "telegram_text": "🏢 Компания:\n«Алма» сауда орталығы\n\n📌 Лауазым:\nСатушы\n\n📋 Талаптар:\n18 жастан жоғары\nСатудан тәжірибе\n\n⏰ Шарттары:\nКесте 2/2\n\n📍 Мекенжай:\nк. Алматы, пр. Абая 52\n\n📞 Байланыс:\n+7 705 111 22 33",
+      "whatsapp_text": "🏢 *Компания:*\n«Алма» сауда орталығы\n\n📌 *Лауазым:*\nСатушы\n\n📋 *Талаптар:*\n18 жастан жоғары\nСатудан тәжірибе\n\n⏰ *Шарттары:*\nКесте 2/2\n\n📍 *Мекенжай:*\nк. Алматы, пр. Абая 52\n\n📞 *Байланыс:*\n+7 705 111 22 33",
+      "language": "kazakh"
+    },
+    "analysis": {
+      "verdict": "PASS",
+      "checks": {
+        "parser_phones": true,
+        "parser_company": true,
+        "phone_extraction": true,
+        "position": true,
+        "language": true,
+        "telegram": true,
+        "whatsapp": true,
+        "missing_fields": true
+      },
+      "fail_reasons": [],
+      "review_reasons": [],
+      "dominant_language": "kazakh",
+      "completeness_score": 100,
+      "completeness_status": "READY",
+      "confidence": 85,
+      "can_approve": true
+    },
+    "after": "Компания:\n«Алма» сауда орталығы\n\nЛауазым:\nСатушы\n\nТалаптар:\n18 жастан жоғары\nСатудан тәжірибе\n\nШарттары:\nКесте 2/2\n\nЖалақы:\n280000 тг\n\nМекенжай:\nк. Алматы, пр. Абая 52\n\nБайланыс:\n+7 705 111 22 33",
+    "validation": {
+      "phone_error": false,
+      "unknown_position": false,
+      "language_error": false,
+      "critical_data_missing": false,
+      "discrimination_flag": false,
+      "review_required": false,
+      "can_approve": true,
+      "errors": [],
+      "warnings": []
+    },
+    "completeness": {
+      "score": 100,
+      "max_score": 100,
+      "status": "READY",
+      "indicator": "🟢",
+      "missing": [],
+      "warnings": [],
+      "field_scores": {
+        "Company": 15,
+        "Position": 25,
+        "Phone": 25,
+        "Address": 15,
+        "Salary": 10,
+        "Work Schedule": 10
+      },
+      "can_poster": true
+    },
+    "quality": {
+      "confidence": 85,
+      "language_preserved": true,
+      "information_lost": false,
+      "missing_fields": [],
+      "warnings": []
+    }
+  }
+]

@@ -1,0 +1,23 @@
+# Render Blueprint — repo root = ai_recruiter_v2
+services:
+  - type: web
+    name: shymkent-rabota-manager
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT --app-dir backend
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: FAST_TEXT_ONLY_MODE
+        value: "true"
+      - key: TELEGRAM_CHANNEL_ID
+        value: "@Shymkent_Rabota_Job"
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: MANAGER_WEB_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+        optional: true

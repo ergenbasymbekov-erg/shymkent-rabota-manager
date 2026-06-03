@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>Shymkent Rabota — менеджер</title>
+  <link rel="stylesheet" href="/static/manager.css" />
+</head>
+<body>
+  <div id="login-screen" class="screen">
+    <h1>Shymkent Rabota</h1>
+    <p class="sub">Менеджер кіруі (телефон / браузер)</p>
+    <label class="field-label" for="manager-key">Құпия сөз (код)</label>
+    <input id="manager-key" type="password" autocomplete="current-password" placeholder="Сервердегі MANAGER_WEB_KEY" />
+    <button id="login-btn" class="btn primary full">Кіру</button>
+    <p id="login-err" class="err" hidden></p>
+  </div>
+
+  <div id="app-screen" class="screen" hidden>
+    <header class="top">
+      <h1>Вакансия жариялау</h1>
+      <button id="logout-btn" class="btn ghost small" type="button">Шығу</button>
+    </header>
+
+    <section class="card">
+      <label class="field-label" for="vacancy-text">Дайын мәтін</label>
+      <textarea id="vacancy-text" rows="12" placeholder="Вакансия мәтінін қойыңыз…"></textarea>
+    </section>
+
+    <div class="actions">
+      <button id="preview-btn" class="btn secondary full" type="button">Preview</button>
+      <button id="publish-btn" class="btn primary full" type="button">Каналға жариялау</button>
+    </div>
+
+    <p id="status-line" class="status" aria-live="polite"></p>
+
+    <div id="preview-block" class="card" hidden>
+      <h2>Preview</h2>
+      <div id="poster-wrap" class="poster-wrap" hidden>
+        <img id="poster-img" alt="Постер" />
+      </div>
+      <pre id="tg-preview" class="preview-text"></pre>
+      <button id="copy-wa-btn" class="btn ghost full" type="button">WhatsApp мәтінін көшіру</button>
+    </div>
+  </div>
+
+  <script src="/static/manager.js"></script>
+</body>
+</html>
