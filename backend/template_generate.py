@@ -8,7 +8,7 @@ import time
 from datetime import datetime
 
 from schema import TemplateGenerateResponse, TemplateOutputs
-from message_format import build_telegram_buttons, telegram_text, whatsapp_text
+from message_format import build_telegram_buttons, telegram_html, telegram_text, whatsapp_text
 from text_poster import generate_text_poster
 
 logger = logging.getLogger(__name__)
@@ -45,6 +45,7 @@ def generate_from_template(text: str) -> TemplateGenerateResponse:
                 whatsapp_text=wa,
                 telegram_buttons=buttons,
             ),
+            telegram_html=telegram_html(tg),
         )
 
     try:
@@ -62,6 +63,7 @@ def generate_from_template(text: str) -> TemplateGenerateResponse:
             error=str(e),
             source_text=source,
             outputs=TemplateOutputs(telegram_text=tg, whatsapp_text=wa, telegram_buttons=buttons),
+            telegram_html=telegram_html(tg),
         )
 
     png_url = ""
@@ -77,6 +79,7 @@ def generate_from_template(text: str) -> TemplateGenerateResponse:
             whatsapp_text=wa,
             telegram_buttons=buttons,
         ),
+        telegram_html=telegram_html(tg),
         poster_png_url=png_url,
         poster_png_filename=png_filename,
         poster_warning=warning,

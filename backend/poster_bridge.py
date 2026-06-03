@@ -21,19 +21,28 @@ logger = logging.getLogger(__name__)
 
 ROOT = Path(__file__).resolve().parent.parent
 POSTERS_DIR = ROOT / "posters" / "generated"
-DEFAULT_MAKET_ROOT = Path.home() / "Desktop" / "maket 4"
-DEFAULT_TEMPLATE = "AC1665E4-6875-4288-81DF-0CCAFCDD4A94.PNG"
+BUNDLED_MAKET = ROOT / "maket_bundle"
+DESKTOP_MAKET = Path.home() / "Desktop" / "maket 4"
+DEFAULT_TEMPLATE_NAME = "template.PNG"
 
 
 def _maket_root() -> Path:
-    return Path(os.environ.get("MAKET4_ROOT", DEFAULT_MAKET_ROOT))
+    custom = (os.environ.get("MAKET4_ROOT") or "").strip()
+    if custom:
+        return Path(custom)
+    if BUNDLED_MAKET.is_dir():
+        return BUNDLED_MAKET
+    return DESKTOP_MAKET
 
 
 def _template_path() -> Path:
-    custom = os.environ.get("MAKET4_TEMPLATE", "")
+    custom = (os.environ.get("MAKET4_TEMPLATE") or "").strip()
     if custom:
         return Path(custom)
-    return _maket_root() / DEFAULT_TEMPLATE
+    bundled = BUNDLED_MAKET / DEFAULT_TEMPLATE_NAME
+    if bundled.is_file():
+        return bundled
+    return DESKTOP_MAKET / "AC1665E4-6875-4288-81DF-0CCAFCDD4A94.PNG"
 
 
 def _ensure_engine():

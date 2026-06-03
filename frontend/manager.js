@@ -2,10 +2,9 @@ const $ = (s) => document.querySelector(s);
 const KEY_STORAGE = "manager_web_key";
 
 function headers() {
-  const key = sessionStorage.getItem(KEY_STORAGE) || "";
   return {
     "Content-Type": "application/json",
-    "X-Manager-Key": key,
+    "X-Manager-Key": sessionStorage.getItem(KEY_STORAGE) || "",
   };
 }
 
@@ -24,19 +23,20 @@ function showLogin(err) {
 function showApp() {
   $("#login-screen").hidden = true;
   $("#app-screen").hidden = false;
+  showInput();
 }
 
-async function checkKey(key) {
-  const r = await fetch("/api/manager/preview", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "X-Manager-Key": key,
-    },
-    body: JSON.stringify({ text: "ping" }),
-  });
-  if (r.status === 401) return false;
-  return r.ok || r.status === 400;
+function showInput() {
+  $("#input-section").hidden = false;
+  $("#preview-screen").hidden = true;
+  $("#publish-btn").disabled = true;
+  window._previewPayload = null;
+}
+
+function showPreviewScreen() {
+  $("#input-section").hidden = true;
+  $("#preview-screen").hidden = false;
+  $("#publish-btn").disabled = false;
 }
 
 function setStatus(msg) {
@@ -48,18 +48,29 @@ function vacancyText() {
 }
 
 function renderPreview(j) {
-  const block = $("#preview-block");
   const img = $("#poster-img");
-  const wrap = $("#poster-wrap");
+  const missing = $("#poster-missing");
   if (j.poster_png_url) {
-    wrap.hidden = false;
     img.src = `${j.poster_png_url}?t=${Date.now()}`;
+    img.hidden = false;
+    missing.hidden = true;
   } else {
-    wrap.hidden = true;
+    img.hidden = true;
+    missing.hidden = false;
+    if (j.error) missing.textContent = `Постер: ${j.error}`;
   }
-  $("#tg-preview").textContent = j.outputs?.telegram_text || "";
-  block.hidden = false;
+
+  const tg = $("#tg-preview");
+  if (j.telegram_html) {
+    tg.innerHTML = j.telegram_html;
+  } else {
+    tg.textContent = j.outputs?.telegram_text || "";
+  }
+
+  $("#wa-preview").textContent = j.outputs?.whatsapp_text || "";
   window._lastWa = j.outputs?.whatsapp_text || "";
+  window._previewPayload = j;
+  showPreviewScreen();
 }
 
 async function preview() {
@@ -70,7 +81,7 @@ async function preview() {
   }
   const btn = $("#preview-btn");
   btn.disabled = true;
-  setStatus("Дайындау…");
+  setStatus("Постер + Telegram дайындау…");
   try {
     const r = await fetch("/api/manager/preview", {
       method: "POST",
@@ -80,7 +91,8 @@ async function preview() {
     const j = await r.json();
     if (!r.ok) throw new Error(j.detail || j.error || r.statusText);
     renderPreview(j);
-    setStatus("Preview дайын");
+    setStatus("");
+    window.scrollTo({ top: 0, behavior: "smooth" });
   } catch (e) {
     setStatus(`Қате: ${e.message}`);
   } finally {
@@ -90,11 +102,11 @@ async function preview() {
 
 async function publish() {
   const text = vacancyText();
-  if (!text) {
-    setStatus("Мәтін бос");
+  if (!text || !window._previewPayload) {
+    setStatus("Алдымен preview көріңіз");
     return;
   }
-  if (!confirm("Каналға жариялайсыз ба?")) return;
+  if (!confirm("Каналға жариялайсыз ба?\n@Shymkent_Rabota_Job")) return;
 
   const btn = $("#publish-btn");
   btn.disabled = true;
@@ -106,16 +118,13 @@ async function publish() {
       body: JSON.stringify({ text }),
     });
     const j = await r.json();
-    if (!r.ok) throw new Error(typeof j.detail === "string" ? j.detail : JSON.stringify(j.detail) || r.statusText);
-    setStatus(`✅ Жарияланды: ${j.channel || "канал"}`);
-    renderPreview(await (await fetch("/api/manager/preview", {
-      method: "POST",
-      headers: headers(),
-      body: JSON.stringify({ text }),
-    })).json());
+    if (!r.ok) {
+      const detail = typeof j.detail === "string" ? j.detail : JSON.stringify(j.detail);
+      throw new Error(detail || r.statusText);
+    }
+    setStatus(`✅ Жарияланды: ${j.channel || "@Shymkent_Rabota_Job"}`);
   } catch (e) {
     setStatus(`Қате: ${e.message}`);
-  } finally {
     btn.disabled = false;
   }
 }
@@ -124,14 +133,17 @@ function init() {
   $("#login-btn").onclick = async () => {
     const key = $("#manager-key").value.trim();
     if (!key) return showLogin("Кодты енгізіңіз");
-    setStatus("");
     try {
-      const ok = await checkKey(key);
+      const ok = await fetch("/api/manager/preview", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "X-Manager-Key": key },
+        body: JSON.stringify({ text: "ping" }),
+      }).then((r) => r.status !== 401);
       if (!ok) return showLogin("Қате код");
       sessionStorage.setItem(KEY_STORAGE, key);
       showApp();
     } catch (e) {
-      showLogin(`Байланыс қатесі: ${e.message}`);
+      showLogin(`Байланыс: ${e.message}`);
     }
   };
 
@@ -142,21 +154,30 @@ function init() {
 
   $("#preview-btn").onclick = preview;
   $("#publish-btn").onclick = publish;
+  $("#back-btn").onclick = () => {
+    showInput();
+    setStatus("");
+  };
 
   $("#copy-wa-btn").onclick = async () => {
     const t = window._lastWa || "";
     if (!t) return;
     try {
       await navigator.clipboard.writeText(t);
-      setStatus("WhatsApp мәтіні көшірілді");
+      setStatus("WhatsApp көшірілді");
     } catch {
-      setStatus("Көшіру сәтсіз — қолмен таңдаңыз");
+      setStatus("Көшіру сәтсіз");
     }
   };
 
   const saved = sessionStorage.getItem(KEY_STORAGE);
   if (saved) {
-    checkKey(saved).then((ok) => (ok ? showApp() : showLogin()));
+    fetch("/api/health")
+      .then(() => {
+        sessionStorage.setItem(KEY_STORAGE, saved);
+        showApp();
+      })
+      .catch(() => showLogin());
   } else {
     showLogin();
   }

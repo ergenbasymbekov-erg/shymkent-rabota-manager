@@ -10,39 +10,57 @@
 <body>
   <div id="login-screen" class="screen">
     <h1>Shymkent Rabota</h1>
-    <p class="sub">Менеджер кіруі (телефон / браузер)</p>
-    <label class="field-label" for="manager-key">Құпия сөз (код)</label>
-    <input id="manager-key" type="password" autocomplete="current-password" placeholder="Сервердегі MANAGER_WEB_KEY" />
+    <p class="sub">Менеджер кіруі</p>
+    <label class="field-label" for="manager-key">Құпия код</label>
+    <input id="manager-key" type="password" autocomplete="current-password" />
     <button id="login-btn" class="btn primary full">Кіру</button>
     <p id="login-err" class="err" hidden></p>
   </div>
 
   <div id="app-screen" class="screen" hidden>
     <header class="top">
-      <h1>Вакансия жариялау</h1>
+      <h1>Вакансия</h1>
       <button id="logout-btn" class="btn ghost small" type="button">Шығу</button>
     </header>
 
-    <section class="card">
+    <section id="input-section" class="card">
       <label class="field-label" for="vacancy-text">Дайын мәтін</label>
-      <textarea id="vacancy-text" rows="12" placeholder="Вакансия мәтінін қойыңыз…"></textarea>
+      <textarea id="vacancy-text" rows="10" placeholder="Вакансия мәтінін қойыңыз…"></textarea>
+      <button id="preview-btn" class="btn secondary full" type="button">Көрсету (preview)</button>
     </section>
 
-    <div class="actions">
-      <button id="preview-btn" class="btn secondary full" type="button">Preview</button>
-      <button id="publish-btn" class="btn primary full" type="button">Каналға жариялау</button>
+    <div id="preview-screen" hidden>
+      <p class="preview-hint">Төменде каналда қалай көрінетіні — тексеріңіз</p>
+
+      <div class="card preview-card">
+        <h2 class="section-title">📷 Постер</h2>
+        <div id="poster-wrap" class="poster-wrap">
+          <p id="poster-missing" class="muted" hidden>Постер жасалмады (тек мәтін режимі)</p>
+          <img id="poster-img" alt="Постер" hidden />
+        </div>
+      </div>
+
+      <div class="card preview-card tg-card">
+        <h2 class="section-title">✈️ Telegram пост</h2>
+        <div id="tg-preview" class="tg-preview"></div>
+        <p class="channel-tag">→ @Shymkent_Rabota_Job</p>
+      </div>
+
+      <details class="card preview-card">
+        <summary>WhatsApp мәтіні</summary>
+        <pre id="wa-preview" class="wa-preview"></pre>
+        <button id="copy-wa-btn" class="btn ghost full" type="button">Көшіру</button>
+      </details>
+
+      <div class="publish-bar">
+        <button id="back-btn" class="btn secondary" type="button">← Өзгерту</button>
+        <button id="publish-btn" class="btn primary publish-btn" type="button" disabled>
+          Telegram-ға жариялау
+        </button>
+      </div>
     </div>
 
     <p id="status-line" class="status" aria-live="polite"></p>
-
-    <div id="preview-block" class="card" hidden>
-      <h2>Preview</h2>
-      <div id="poster-wrap" class="poster-wrap" hidden>
-        <img id="poster-img" alt="Постер" />
-      </div>
-      <pre id="tg-preview" class="preview-text"></pre>
-      <button id="copy-wa-btn" class="btn ghost full" type="button">WhatsApp мәтінін көшіру</button>
-    </div>
   </div>
 
   <script src="/static/manager.js"></script>

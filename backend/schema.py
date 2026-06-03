@@ -268,6 +268,7 @@ class TemplateOutputs(BaseModel):
 class TemplateGenerateResponse(BaseModel):
     source_text: str = ""
     outputs: TemplateOutputs = Field(default_factory=TemplateOutputs)
+    telegram_html: str = ""
     poster_png_url: str = ""
     poster_png_filename: str = ""
     poster_warning: str = ""
