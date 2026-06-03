@@ -58,7 +58,7 @@ class DrawLine:
 def _resolve_font() -> str:
     from poster_bridge import ROOT as APP_ROOT
 
-    for name in ("Arial-Bold.ttf", "Montserrat-ExtraBold.ttf"):
+    for name in ("Montserrat-ExtraBold.ttf", "Arial-Bold.ttf"):
         bundled = (APP_ROOT / "maket_bundle" / "fonts" / name).resolve()
         if bundled.is_file():
             return str(bundled)
