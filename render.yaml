@@ -12,8 +12,6 @@ services:
         value: "3.11.9"
       - key: FAST_TEXT_ONLY_MODE
         value: "false"
-      - key: MAKET4_ROOT
-        value: maket_bundle
       - key: TELEGRAM_CHANNEL_ID
         value: "@Shymkent_Rabota_Job"
       - key: TELEGRAM_BOT_TOKEN

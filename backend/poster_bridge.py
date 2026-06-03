@@ -29,9 +29,12 @@ DEFAULT_TEMPLATE_NAME = "template.PNG"
 def _maket_root() -> Path:
     custom = (os.environ.get("MAKET4_ROOT") or "").strip()
     if custom:
-        return Path(custom)
+        p = Path(custom).expanduser()
+        if not p.is_absolute():
+            p = (ROOT / p).resolve()
+        return p
     if BUNDLED_MAKET.is_dir():
-        return BUNDLED_MAKET
+        return BUNDLED_MAKET.resolve()
     return DESKTOP_MAKET
 
 
