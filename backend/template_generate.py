@@ -7,11 +7,16 @@ import os
 import time
 from datetime import datetime
 
+from pathlib import Path
+
 from schema import TemplateGenerateResponse, TemplateOutputs
 from message_format import build_telegram_buttons, telegram_html, telegram_text, whatsapp_text
 from text_poster import generate_text_poster
 
 logger = logging.getLogger(__name__)
+
+ROOT = Path(__file__).resolve().parent.parent
+BUNDLED_TEMPLATE = ROOT / "maket_bundle" / "template.PNG"
 
 
 def _timing_ts() -> str:
@@ -19,6 +24,9 @@ def _timing_ts() -> str:
 
 
 def fast_text_only_mode() -> bool:
+    """Poster off only when no bundled template (or explicit FAST_TEXT_ONLY_MODE on desktop)."""
+    if BUNDLED_TEMPLATE.is_file():
+        return False
     raw = os.environ.get("FAST_TEXT_ONLY_MODE", "true").strip().lower()
     return raw in ("1", "true", "yes", "on")
 

@@ -37,6 +37,11 @@ def _template_fingerprint(path: Path) -> str:
 def _resolve_font(custom: str | None = None) -> str:
     if custom:
         return custom
+    bundled_fonts = Path(__file__).resolve().parent.parent / "fonts"
+    for name in ("Montserrat-ExtraBold.ttf", "Arial-Bold.ttf"):
+        path = bundled_fonts / name
+        if path.is_file():
+            return str(path)
     home = Path.home()
     for candidate in FONT_CANDIDATES:
         path = Path(candidate.replace("~", str(home))).expanduser()
