@@ -47,6 +47,25 @@ function vacancyText() {
   return $("#vacancy-text").value.trim();
 }
 
+/** Remove platform footer from WhatsApp (works even if server not redeployed yet). */
+function stripWaPlatformFooter(text) {
+  if (!text) return "";
+  const drop = (line) => {
+    const t = line.trim();
+    if (!t) return false;
+    if (/хабарландыру/i.test(t)) return true;
+    if (/776\s*383\s*7171/.test(t)) return true;
+    if (/^━+$/.test(t)) return true;
+    return false;
+  };
+  return text
+    .split("\n")
+    .filter((line) => !drop(line))
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 function renderPreview(j) {
   const img = $("#poster-img");
   const missing = $("#poster-missing");
@@ -67,8 +86,10 @@ function renderPreview(j) {
     tg.textContent = j.outputs?.telegram_text || "";
   }
 
-  $("#wa-preview").textContent = j.outputs?.whatsapp_text || "";
-  window._lastWa = j.outputs?.whatsapp_text || "";
+  const waRaw = j.outputs?.whatsapp_text || "";
+  const wa = stripWaPlatformFooter(waRaw);
+  $("#wa-preview").textContent = wa;
+  window._lastWa = wa;
   window._previewPayload = j;
   showPreviewScreen();
 }

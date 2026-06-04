@@ -848,7 +848,37 @@ def _tg_footer() -> str:
 
 
 def _wa_footer() -> str:
-    return f"{FOOTER_PROMOTION}\n\n📞 {PLATFORM_PHONE_DISPLAY}"
+    return ""
+
+
+_PLATFORM_FOOTER_RE = re.compile(
+    r"(?:хабарландыру|776\s*383\s*7171|77763837171|wa\.me/77763837171)",
+    re.I | re.UNICODE,
+)
+
+
+def _strip_wa_platform_footer(text: str) -> str:
+    """Remove platform promo footer lines from WhatsApp output (any code path)."""
+    lines: list[str] = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            lines.append("")
+            continue
+        if stripped == FOOTER_PROMOTION:
+            continue
+        if stripped == f"📞 {PLATFORM_PHONE_DISPLAY}":
+            continue
+        if stripped == PLATFORM_PHONE_DISPLAY:
+            continue
+        if stripped == WA_FOOTER_RULE or stripped == TG_FOOTER_RULE:
+            continue
+        if _PLATFORM_FOOTER_RE.search(stripped):
+            continue
+        lines.append(line)
+    while lines and lines[-1] == "":
+        lines.pop()
+    return "\n".join(lines).strip()
 
 
 def _join_blocks(blocks: list[str], gap: str = "\n\n") -> str:
@@ -939,9 +969,11 @@ def _format_preserve_order(
 
         out.append(_body_line(stripped, tg=tg))
 
-    if out and out[-1] != "":
-        out.append("")
-    out.append(_tg_footer() if tg else _wa_footer())
+    footer = _tg_footer() if tg else _wa_footer()
+    if footer.strip():
+        if out and out[-1] != "":
+            out.append("")
+        out.append(footer)
     return "\n".join(out).strip()
 
 
@@ -961,7 +993,9 @@ def telegram_preview_text(text: str) -> str:
 
 def whatsapp_text(text: str) -> str:
     """WhatsApp vacancy post — same order as source, formatting only."""
-    return _format_preserve_order(text, tg=False, include_wa_links=False)
+    return _strip_wa_platform_footer(
+        _format_preserve_order(text, tg=False, include_wa_links=False)
+    )
 
 
 def build_telegram_buttons(text: str) -> list[TelegramButton]:
